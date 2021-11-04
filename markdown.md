@@ -5,6 +5,31 @@ Für die Beantwortung einer Forschungsfrage geht der folgende Abschnitt auf die 
 
 Hevner et. al. zufolge verknüpft der DSR dabei die wissenschaftlichen Ziele der Behavioral Science mit jenen der Design Science. 78 Wohingegen sich Behavioral Science zur Problembeschreibung mit der Entwicklung und Validierung von Theorien befasst, adressiert Design Science die Problemlösung mit der Konstruktion und Evaluation von Artefakten. 79 Auf Grundlage dieser sich gegenseitig befruchtenden Symbiose zielt die Nutzung des DSR darauf ab, mithilfe neuartiger Artefakte unternehmensrelevanten Problemstellungen zu begegnen und so dem Aufzeigen von Lösungswegen wie auch dem theoretischen Wissenszuwachs zuträglich zu sein. 80 Der hierfür propagierte Kreislauf dreier ineinander verwobener Zyklen - Rigorosität, Relevanz und Design – sei als konzeptioneller Ordnungsrahmen verstanden und wie folgt skizziert:
 
+Während der Relevanz-Zyklus die Unternehmensumwelt mit dem Forschungsvorhaben verzahnt und auf diese Weise sowohl die Problemstellung als auch die Anforderungen an das Artefakt spezifiziert, stellt der Rigor-Zyklus sicher, dass die Erstellung des Artefakts unter Berücksichtigung bereits bestehender Wissensbasis erfolgt. 81 Als Herzstück des DSR versteht sich allerdings der Design-Zyklus, dem bei Einbeziehung der in den beiden anderen Zyklen gesammelten Erkenntnisse die kreative wie iterative Konstruktion des Artefakts obliegt. 82 Dabei schließt der Terminus des Artefakts nach Hevner und Chatterjee all jenes vom Menschen künstlich Geschaffene – neben Konstrukten auch Modelle und Methoden – ein, das einem ersten Lösungsansatz für ein relevantes Problem oder der spürbaren Aufwertung einer existierenden Lösung dienlich ist.8
+
+Anforderungskatalog
+
+ Grundmuster einer schrittweisen Verfeinerung 229nach initialer Aufnahme der Geschäftsanforderungen (Business Requirements) die sich daraus erge- benden Implikationen für Daten (Data Requirements), Funktionen (Functional Require- ments) und technischen Unterbau (Technical Requirements) ebenso beleuchtet und do- kumentiert wie bestehende Data Shadow Systeme 230und notwendig werdendes
+
+
+Die folgende Checkliste soll eine Überprüfung dienen, ob das Vorgehen nach Design Science Research korrekt umgesetzt wurde. Die Fragen orientieren sich an der „Design Science Research Checklist“ nach Hevner & Chatterjee (Hevner & Chatterjee, 2010, S. 20) und den “ACM SIGSOFT Empirical Standards nach Ralph et al. (Ralph, 2020).
+
+1. Was ist die Forschungsfrage (Gestaltungsanforderungen)?
+2. Was ist das Artefakt? Wie wird das Artefakt dargestellt?
+3. Welche Designprozesse werden für die Gestaltung des Artefakts verwendet?
+4. Wie werden das Artefakt und die Designprozesse durch die Wissensbasis fundiert? Welche Theorien
+ unterstützen, wenn vorhanden, das Design des Artefakts und den Designprozess?
+5. Welche Evaluationen werden während der internen Designzyklen durchgeführt? Welche
+ Designverbesserungen werden während jedes Designzyklus identifiziert? Werden die Stärken,
+ Schwächen und Grenzen des Artefakts diskutiert?
+6. Wie wird das Artefakt in die Anwendungsdomäne eingeführt und wie wird es im Feld getestet? Welche
+ Metriken werden verwendet, um den Nutzen des Artefakts und die Verbesserung gegenüber früheren
+ Artefakten zu demonstrieren?
+7. Werden Alternativen auf Basis des Stands der Technik analysiert? Welches neue Wissen wird der
+ Wissensbasis hinzugefügt und in welcher Form (z.B. Veröffentlichung, Meta-Artefakte, neue Theorie,
+ neue Methode)?
+8. Ist die Forschungsfrage zufriedenstellend beantwortet?
+
 
 
 Whether you write your book's content in Jupyter Notebooks (`.ipynb`) or
