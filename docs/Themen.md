@@ -2,11 +2,18 @@
 
 Hier einige Hinweise zu möglichen Themenstellungen:
 
+
 ## Analytics & Data Science
 
-- Customer Analytics: Customer 
 
-https://heap.io/solutions/conversion-rate-optimization
+Thematik | Hinweise | Kommerzielle Lösungen
+-- | -- 
+Conversion Rate Optimierung | | [Heap](https://heap.io/solutions/conversion-rate-optimization)
+Customer Decision Journey Analytics | |
+Customer Analytics | |
+Recommender Systeme | |
+
+
 
 
 
