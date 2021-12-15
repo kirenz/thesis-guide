@@ -6,7 +6,7 @@ Unabhängig von der Art der wissenschaftlichen Arbeit besteht jeweils die Mögli
 
 Wichtige Hinweise:
 
-- Soll im Rahmen der Kooperation mit Hilfe einer Technologie eine Lösung erarbeitet werden (bspw. im Bereich Machine Learning, Datenaufbereitung, Dashboards, ...), eignet sich die Nutzung der Design Science Research Methode.
+- Soll im Rahmen der Kooperation mit Hilfe einer Technologie eine Lösung erarbeitet werden (bspw. im Bereich Machine Learning, Feature Engineering, Dashboards, ...), eignet sich die Nutzung der Design Science Research Methode.
 - Die theoretische Fundierung der Arbeit ist auch im Rahmen eine Kooperation zwingend erforderlich. 
 - Eine Verallgemeinerbarkeit über das behandelte Unternehmen hinaus muss gegeben sein.
 
