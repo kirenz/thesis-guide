@@ -9,7 +9,7 @@ Thematik | Hinweise | Technologien
 -- | -- | ---
 Customer Analytics; Marketing Analytics | [Article](https://drive.google.com/file/d/1TnFnnbwrxJU4PBBVeR5_aA-NM80s2_Hk/view?usp=drivesdk) | [Heap](https://heap.io)
 Recommendation Systeme |[Overview](https://kirenz.github.io/recommender/docs/intro.html) |
-Natural Language Processing; Text Mining | | [NLTK](https://www.nltk.org), [spaCy](https://spacy.
+Natural Language Processing; Text Mining | | [NLTK](https://www.nltk.org), [spaCy](https://spacy)
 Web Analytics | [Overview](https://kirenz.github.io/bigdata/) | 
 Deep Learning | | [Keras](), [TensorFlow]()
 
