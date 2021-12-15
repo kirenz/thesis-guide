@@ -6,29 +6,33 @@ Hier einige Hinweise zu möglichen Themenstellungen:
 ## Analytics & Data Science
 
 
-Thematik | Hinweise | Kommerzielle Lösungen
+Thematik | Hinweise | Technologien
 -- | -- | ---
-Customer Analytics; Marketing Intelligence | [Article](https://drive.google.com/file/d/1TnFnnbwrxJU4PBBVeR5_aA-NM80s2_Hk/view?usp=drivesdk) | [Heap](https://heap.io/solutions/conversion-rate-optimization)
+Customer Analytics; Marketing Analytics | [Article](https://drive.google.com/file/d/1TnFnnbwrxJU4PBBVeR5_aA-NM80s2_Hk/view?usp=drivesdk) | [Heap](https://heap.io)
 Recommendation Systeme |[Overview](https://kirenz.github.io/recommender/docs/intro.html) |
-
-
-
-
+Natural Language Processing; Text Mining | | [NLTK](https://www.nltk.org), [spaCy](https://spacy.io)
+Deep Learning | | [TensorFlow]()
 
 ## Dashboards
 
-- Entwicklung von Business Intelligence Dashboards
-- Feature Engineering
 
-## 
+Thematik | Hinweise | Technologien
+-- | -- | ---
+Business Intelligence Dashboards | | [Dash](), [Shiny](), [PowerBI](), [Tableau]()
 
 
-## Machine Learning Operations
 
-Konzeption und Implementierung von:
+## Data Engineering & Machine Learning Operations (MLOps)
 
-- Datenpipelines
-- Automatisierte Datenorchestrierung 
+
+Thematik | Hinweise | Kommerzielle Lösungen
+-- | -- | ---
+Machine Learning Lifecycle | |
+Machine Learning Data Pipelines
+Feature Engineering | |
+Data Architectures (Data Lakehouse) | |
+
+
 
 
 
