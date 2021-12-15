@@ -10,7 +10,7 @@ Thematik | Hinweise | Kommerzielle Lösungen
 -- | -- | ---
 Conversion Rate Optimierung | | [Heap](https://heap.io/solutions/conversion-rate-optimization)
 Customer Decision Journey Analytics | |
-Customer Analytics | |
+Customer Analytics | [Overview](https://drive.google.com/file/d/1TnFnnbwrxJU4PBBVeR5_aA-NM80s2_Hk/view?usp=drivesdk) |
 Recommender Systeme | |
 
 
