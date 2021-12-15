@@ -8,10 +8,8 @@ Hier einige Hinweise zu möglichen Themenstellungen:
 
 Thematik | Hinweise | Kommerzielle Lösungen
 -- | -- | ---
-Conversion Rate Optimierung | | [Heap](https://heap.io/solutions/conversion-rate-optimization)
-Customer Decision Journey Analytics | |
-Customer Analytics | [Overview](https://drive.google.com/file/d/1TnFnnbwrxJU4PBBVeR5_aA-NM80s2_Hk/view?usp=drivesdk) |
-Recommender Systeme | |
+Customer Analytics; Marketing Intelligence | [Article](https://drive.google.com/file/d/1TnFnnbwrxJU4PBBVeR5_aA-NM80s2_Hk/view?usp=drivesdk) | [Heap](https://heap.io/solutions/conversion-rate-optimization)
+Recommendation Systeme |[Overview](https://kirenz.github.io/recommender/docs/intro.html) |
 
 
 
