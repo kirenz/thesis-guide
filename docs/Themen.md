@@ -11,13 +11,13 @@ Customer Analytics; Marketing Analytics | [Article](https://drive.google.com/fil
 Recommendation Systeme |[Overview](https://kirenz.github.io/recommender/docs/intro.html) |
 Natural Language Processing; Text Mining | | [NLTK](https://www.nltk.org), [spaCy](https://spacy)
 Web Analytics | [Overview](https://kirenz.github.io/bigdata/) | 
-Deep Learning | | [Keras](), [TensorFlow]()
+Deep Learning | | [Keras](https://keras.io), [TensorFlow](https://www.tensorflow.org)
 
 ## Dashboards
 
 Thematik | Hinweise | Technologien
 -- | -- | ---
-Business Intelligence Dashboards | | [Dash](), [Shiny](), [PowerBI](), [Tableau]()
+Business Intelligence Dashboards | | [Dash](https://github.com/kirenz/dash-tutorial), [Shiny](https://shiny.rstudio.com), [PowerBI](https://powerbi.microsoft.com/de-de/), [Tableau](https://www.tableau.com/de-de)
 
 
 
