@@ -9,7 +9,7 @@ parts:
     - file: docs/arten.md
   - caption: Themenfindung
     chapters:
-    - file: docs/themen.md
+    - file: docs/thema.md
     - file: docs/expose.md     
   - caption: Recherche
     chapters:
