@@ -24,8 +24,3 @@ Beantworten Sie in diesem Zusammenhang folgende Fragen:
 1. Mit Hilfe welcher Methoden soll die Frage beantwortet werden?
 
 1. Nennen Sie drei zentrale Quellen, die Sie für die Bearbeitung der Fragestellung als besonders relevant erachten.
-
-
-
-
-In Anlehnung an (Booth, Comb & Williams, 2003)
