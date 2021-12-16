@@ -1,17 +1,17 @@
 # Themenschwerpunkte
 
-Bei der folgenden Übersicht handelt es sich nicht um konkrete Themenvorschläge sondern um Themenkomplexe, innerhalb derer Arbeiten verfasst werden können. 
+Bei der folgenden Übersicht handelt es sich nicht um konkrete Themenvorschläge, sondern um Themenkomplexe, innerhalb derer Arbeiten verfasst werden können. 
 
 
-## Analytics & Data Science
+## Analytics, Data Science & AI
 
-Thematik | Hinweise | Technologien
+Thematik | Hinweise | Technologien | Beiträge
 -- | -- | ---
-Customer Analytics; Marketing Analytics | [Article](https://drive.google.com/file/d/1TnFnnbwrxJU4PBBVeR5_aA-NM80s2_Hk/view?usp=drivesdk) | [Heap](https://heap.io)
-Recommendation Systeme |[Overview](https://kirenz.github.io/recommender/docs/intro.html) |
+Customer Analytics; Marketing Analytics |  | Python, R | [Customer Lifecycle Management](https://drive.google.com/file/d/1TnFnnbwrxJU4PBBVeR5_aA-NM80s2_Hk/view?usp=drivesdk) 
+Recommendation Systeme |[Overview](https://kirenz.github.io/recommender/docs/intro.html) | TensorFlow Recommenders, LightFM, Surprise  |
 Natural Language Processing; Text Mining | | [NLTK](https://www.nltk.org), [spaCy](https://spacy)
-Web Analytics | [Overview](https://kirenz.github.io/bigdata/) | 
-Deep Learning | | [Keras](https://keras.io), [TensorFlow](https://www.tensorflow.org)
+Web Analytics; Digital Marketing Analytics | [Overview](https://kirenz.github.io/bigdata/) | | [HubSpot](https://blog.hubspot.de/marketing/gewusst-wie-digital-marketing-analytics), [Heap](https://heap.io)
+Deep Learning | | [Keras](https://keras.io), [TensorFlow](https://www.tensorflow.org) |
 
 ## Dashboards
 
@@ -31,14 +31,3 @@ Data Pipelines | |
 Feature Engineering | [Book](http://www.feat.engineering) |
 Big Data Architectures (Data Lakehouse) | |
 
-
-
-
-
-1) Data Driven Marketing bzw. Marketing Analytics
-2) Customer Relationship Management bzw. Customer Lifecycle Management
-3) Web Analytics bzw. Online Analytics
-4) Social Media Intelligence
-5) 
-6) Big Data
-8) Künstliche Intelligenz, Machine Learning bzw. Data Science
