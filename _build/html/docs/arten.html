@@ -249,7 +249,7 @@
                 
   <div class="tex2jax_ignore mathjax_ignore section" id="arten-wissenschaftlicher-arbeiten">
 <h1>Arten wissenschaftlicher Arbeiten<a class="headerlink" href="#arten-wissenschaftlicher-arbeiten" title="Permalink to this headline">¶</a></h1>
-<p>Bei der Erstellung einer wissenschaftlichen Arbeit kann zwischen verschiedenen Arten unterschieden werden. Bitte beachten Sie, dass ich lediglich Arbeiten der folgenden Art betreue:</p>
+<p>Bei der Erstellung einer wissenschaftlichen Arbeit kann zwischen verschiedenen Arten unterschieden werden. Bitte beachten Sie, dass lediglich Arbeiten der folgenden Art betreut werden:</p>
 <ul class="simple">
 <li><p>Erstellung einer technologischen Lösung (bspw. im Bereich Machine Learning, Analytics, Data Engineering, Dashboards, …): <code class="docutils literal notranslate"><span class="pre">Design</span> <span class="pre">Science</span> <span class="pre">Research</span> <span class="pre">Methode</span></code>.</p></li>
 <li><p>Erstellung eines statistischen Modells und/oder Prüfung von Hypothesen (bspw. im Rahmen eines A/B-Tests): <code class="docutils literal notranslate"><span class="pre">Quantitative</span> <span class="pre">empirische</span> <span class="pre">Arbeit</span></code>.</p></li>
@@ -257,30 +257,41 @@
 <p>Unten finden Sie Hinweise zu den beiden Arten.</p>
 <div class="section" id="hinweise-zu-kooperationen">
 <h2>Hinweise zu Kooperationen<a class="headerlink" href="#hinweise-zu-kooperationen" title="Permalink to this headline">¶</a></h2>
-<p>Unabhängig von der Art der wissenschaftlichen Arbeit besteht jeweils die Möglichkeit, diese in <strong>Kooperation mit einem Unternehmen</strong> zu verfassen. Bei einer Kooperation wird von Seiten des Unternehmens typischerweise eine spezifische Fragestellung formuliert, die im Rahmen der wissenschaftlichen Arbeit bearbeitet werden soll. In diesem Fall eigent sich in der Regel die Anwendung der Design Science Research Methode.</p>
+<p>Unabhängig von der Art der wissenschaftlichen Arbeit besteht jeweils die Möglichkeit, diese in <strong>Kooperation mit einem Unternehmen</strong> zu verfassen. Bei einer Kooperation wird von Seiten des Unternehmens typischerweise eine spezifische Fragestellung formuliert, die im Rahmen der wissenschaftlichen Arbeit bearbeitet werden soll. In diesem Fall eignt sich in der Regel die Anwendung der <code class="docutils literal notranslate"><span class="pre">Design</span> <span class="pre">Science</span> <span class="pre">Research</span> <span class="pre">Methode</span></code>.</p>
 <p>Wichtige Hinweise zu Arbeiten mit Unternehmen:</p>
 <ul class="simple">
-<li><p>Die theoretische Fundierung der Arbeit ist auch im Rahmen einer Kooperation zwingend erforderlich.</p></li>
+<li><p>Die theoretische Fundierung der Arbeit ist auch im Rahmen einer Kooperation zwingend erforderlich (Literaturanalyse etc.).</p></li>
 <li><p>Eine Verallgemeinerbarkeit über das behandelte Unternehmen hinaus muss gegeben sein.</p></li>
 </ul>
 </div>
 <div class="section" id="design-science-research">
 <h2>Design Science Research<a class="headerlink" href="#design-science-research" title="Permalink to this headline">¶</a></h2>
-<p>Sollen im Rahmen der Arbeit mit Hilfe von Technologien (bspw. Python, R, Open Source Software, Microsoft Power BI, …) Lösungen für eine bestimmte Fragestellung erstellt werden, eignet sich die Verwendung der Desing Science Research Methode (DSRM), die auch als “gestaltungsorientierte Forschung” bezeichnet wird. Im Kontext von DSR werden Lösungen als Artefakte bezeichnet. In dieser Abbildung finden Sie eine Übersicht über die Vorgehensweise innerhalb der DSRM (Peffers et al., 2007):</p>
+<p>Sollen im Rahmen der Arbeit mit Hilfe von Technologien (bspw. Python, R, Open Source Software, Microsoft Power BI, …) Lösungen für eine bestimmte Fragestellung erstellt werden, eignet sich die Verwendung der Desing Science Research Methode (DSRM), die auch als “gestaltungsorientierte Forschung” bezeichnet wird (im Kontext der DSRM werden Lösungen als “Artefakte” bezeichnet).</p>
+<p>Hevner et. al. (2004) zufolge besteht die Zielsetzung des DSRM darin, mithilfe neuartiger Artefakte unternehmensrelevanten Problemstellungen zu lösen und gleichzeitig durch deren systematischer Dokumentation dem theoretischen Wissenszuwachs zuträglich zu sein. Der hierfür konzipierte  Kreislauf dreier Zyklen - Rigorosität, Relevanz und Design – ist als konzeptioneller Ordnungsrahmen zu verstehen (Hevner, 2007):</p>
+<a class="bg-primary mb-1 reference internal image-reference" href="../_images/dsrm-cycles.png"><img alt="dsrm" class="bg-primary mb-1 align-center" src="../_images/dsrm-cycles.png" style="width: 600px;" /></a>
+<ul class="simple">
+<li><p>Relevanz-Zyklus: Unternehmensumwelt wird mit dem Forschungsvorhaben verzahnt und auf diese Weise sowohl die Problemstellung als auch die Anforderungen an die Artefakte spezifiziert. Ein Artefakt kann dabei eine Technologie, eine Methode, ein Modell ect. darstellen.</p></li>
+<li><p>Rigor-Zyklus: Erstellung des Artefakts unter Berücksichtigung bereits bestehender Wissensbasis (Literatur, Best Practice Ansätze).</p></li>
+<li><p>Design-Zyklus: Erstellung der Artefakte (Modelle, Methoden, … ) unter Einbeziehung der in den beiden anderen Zyklen gewonnenen Erkenntnisse.  8</p></li>
+</ul>
+<p>Peffers et al. (2007) überführten die Zyklen in einen Prozess, der in der nachfolgenden Abbildung dargestellt ist. In dieser ist der Prozess der DSRM für ein Beispiel, in welchem ein Data Warehouse entwickelt werden soll, dargestellt:</p>
 <a class="bg-primary mb-1 reference internal image-reference" href="../_images/dsrm-process.png"><img alt="dsrm" class="bg-primary mb-1 align-center" src="../_images/dsrm-process.png" style="width: 600px;" /></a>
+<br>
 <p>Die Vorgehensweise folgt typischerweise diesem Schema:</p>
 <ol class="simple">
-<li><p>Beschreibung der Problemstellung</p></li>
-<li><p>Erste Definition der Ziele für eine Lösung</p></li>
+<li><p>Beschreibung der Problemstellung und Motivation</p></li>
 <li><p>Recherche und Aufarbeitung der relevanten Literatur (Theorien, Best Practice Ansätze, State of the Art Ansätze)</p></li>
-<li><p>Konkretisierung der Ziele und Erstellung eines Anforderungskatalogs (was ist der gewünschte Funktionsumfang der Artefakte?)</p></li>
+<li><p>Definition der Zielsetzung und Erstellung eines Anforderungskatalogs (was ist der gewünschte Funktionsumfang der Artefakte?)</p></li>
 <li><p>Design und Entwicklung der Artefakte</p></li>
 <li><p>Demonstration und Evaluation der Artefakte</p></li>
+<li><p>Kommunikation (optional)</p></li>
 </ol>
 <div class="tip admonition">
-<p class="admonition-title">Weitere Hinweise</p>
+<p class="admonition-title">Literatur</p>
 <ul class="simple">
-<li><p><a class="reference external" href="https://drive.google.com/file/d/1gZPittSxfb1t5AM2lBVPOW4tr_FLZxdn/view?usp=sharing">A Design Science Research Methodology for Information Systems Research (Peffers et al., 2007)</a></p></li>
+<li><p><a class="reference external" href="https://drive.google.com/file/d/1gZPittSxfb1t5AM2lBVPOW4tr_FLZxdn/view?usp=sharing">Process of Design Science Research Methodology (Peffers et al., 2007)</a></p></li>
+<li><p><a class="reference external" href="https://drive.google.com/file/d/1CC7Q-4avgoS7Z1SreuM_Jz5tuat6rjNt/view?usp=sharing">Design Science Research Guidelines (Hevner et al., 2004)</a></p></li>
+<li><p><a class="reference external" href="https://drive.google.com/file/d/1Ocy0UkjFSEyeiI4RVvBbQc2P1pxNuzEZ/view?usp=sharing">A Three Cycle View of Design Science Research (Hevner, 2007)</a></p></li>
 </ul>
 </div>
 </div>
