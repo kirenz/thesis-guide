@@ -15,12 +15,10 @@ Beantworten Sie in diesem Zusammenhang folgende Fragen:
 
 1. Weshalb ist die Beantwortung der Frage relevant?
 
-1. Welche Art wissenschaftlicher Arbeit haben Sie ausgewählt? 
+1. Welche Art wissenschaftlicher Arbeit wählen Sie? 
 
-1. Welche Erkenntnisse wird die Arbeit für die Praxis generieren? 
+1. Welche Erkenntnisse wird die Arbeit voraussichtlich für die Praxis generieren? 
 
 1. Welchen Beitrag wird die Arbeit für die wissenschaftliche Theorie leisten? 
-
-1. Mit Hilfe welcher Methoden soll die Frage beantwortet werden?
 
 1. Nennen Sie drei zentrale Quellen, die Sie für die Bearbeitung der Fragestellung als besonders relevant erachten.
