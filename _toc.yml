@@ -2,7 +2,18 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
-chapters:
-- file: markdown
-- file: notebooks
+root: docs/intro.md
+parts:
+  - caption: Arten
+    chapters:
+    - file: docs/arten.md
+  - caption: Themenfindung
+    chapters:
+    - file: docs/themen.md
+    - file: docs/vorhaben.md   
+  - caption: Recherche
+    chapters:
+    - file: docs/recherche.md
+  - caption: Literaturquellen
+    chapters:
+    - file: docs/reference.md
