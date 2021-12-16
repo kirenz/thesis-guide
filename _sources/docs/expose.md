@@ -1,6 +1,6 @@
 # Forschungsvorhaben
 
-Bitte erstellen Sie zunächst eine Übersicht Ihres Forschungsvorhabens. Nutzen Sie dafür die hier bereitgestellte Vorlage und fügen Sie Ihre Antworten direkt untere die Fragen ein. Sie jeweils direkt :
+Bitte erstellen Sie zunächst eine Übersicht Ihres Forschungsvorhabens (Exposé). Nutzen Sie dafür die hier bereitgestellte Vorlage und fügen Sie Ihre Antworten direkt untere die Fragen ein:
 
 ```{admonition} Forschungsvorhaben
 :class: tip
@@ -9,12 +9,13 @@ Bitte erstellen Sie zunächst eine Übersicht Ihres Forschungsvorhabens. Nutzen 
 
 Beantworten Sie in diesem Zusammenhang folgende Fragen:
 
-
 1. Welchem Themengebiet widmet sich die Arbeit?
 
 1. Welche konkrete Frage soll beantwortet werden?
 
 1. Weshalb ist die Beantwortung der Frage relevant?
+
+1. Welche Art wissenschaftlicher Arbeit haben Sie ausgewählt? 
 
 1. Welche Erkenntnisse wird die Arbeit für die Praxis generieren? 
 
@@ -25,8 +26,6 @@ Beantworten Sie in diesem Zusammenhang folgende Fragen:
 1. Nennen Sie drei zentrale Quellen, die Sie für die Bearbeitung der Fragestellung als besonders relevant erachten.
 
 
-1. Welche Art der wissenschaftlichen Arbeit Sie wählen (siehe unten)
 
-Beschreiben Sie zudem, mit welcher Methode (qualitativ oder quantitativ - siehe auch weiter unten) Sie die Fragestellung beantworten möchten und welche bereits vorhandenen Studien/Arbeiten (Literaturrecherche - siehe unten) Sie für die Bearbeitung der Fragestellung als relevant einschätzen. Geben Sie dafür mindestens fünf relevante Quellen an.
 
 In Anlehnung an (Booth, Comb & Williams, 2003)
