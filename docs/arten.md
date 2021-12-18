@@ -6,17 +6,20 @@ Bei der Erstellung einer wissenschaftlichen Arbeit kann zwischen verschiedenen A
 
 - Erstellung eines statistischen Modells und/oder Prüfung von Hypothesen (bspw. im Rahmen eines A/B-Tests) im Rahmen einer `quantitativen empirischen Arbeit`.
 
-Weiter unten finden Sie Hinweise zu den beiden Arten. Unabhängig von der Art der wissenschaftlichen Arbeit besteht jeweils die Möglichkeit, diese in Kooperation mit einem Unternehmen zu verfassen. Lesen Sie bitte aufmerksam die folgenden Hinweise, falls Sie die Arbeit in Kooperation mit einem Unternehmen verfassen möchten. 
+Weiter unten finden Sie Hinweise zu den beiden Arten. Unabhängig von der Art der wissenschaftlichen Arbeit besteht jeweils die Möglichkeit, diese in Kooperation mit einem Unternehmen zu verfassen. Lesen Sie bitte die folgenden Hinweise, falls Sie die Arbeit in Kooperation mit einem Unternehmen verfassen möchten. 
 
 ## Hinweise zu Kooperationen
 
-Bei einer Kooperation wird von Seiten des Unternehmens typischerweise eine spezifische Fragestellung formuliert, die im Rahmen der wissenschaftlichen Arbeit bearbeitet werden soll. In diesem Fall eignt sich in der Regel die Anwendung der `Design Science Research Methode` (siehe unten).
+Bei einer Kooperation wird von Seiten des Unternehmens typischerweise eine spezifische Fragestellung formuliert, die im Rahmen der wissenschaftlichen Arbeit bearbeitet werden soll.
 
-Bitte beachten Sie, dass die Fragestellung so formuliert sein muss, dass für deren Bearbeitung eine theoretische Fundierung genutzt werden kann. Zudem muss eine Verallgemeinerbarkeit der Erkenntnisse über das behandelte Unternehmen hinaus gegeben sein. 
+Bitte beachten Sie, dass die Fragestellung so formuliert sein muss, dass für deren Bearbeitung eine theoretische Fundierung genutzt werden kann. Zudem muss eine Verallgemeinerbarkeit der Erkenntnisse über das behandelte Unternehmen hinaus (für die Praxis und Theorie) gegeben sein. 
 
 Beispiel: 
 
-Sollen im Rahmen der Arbeit bspw. spezifische Daten aufbereitet und/oder ein Dashboard erstellt werden, ist es nicht ausreichend, lediglich die Umsetzung der entsprechenden Tätigkeiten zu dokumentieren. Stattdessen muss im Kontext der theoretischen Fundierung zunächst eine allgemeine Grundlage für die spezifischen Tätigkeiten identifiziert und thematisiert werden. Da die Datenaufbereitung und Dashboarderstellung typischerweise im Kontext einer besseren Entscheidungsfindung stattfindet, könnte als theoretische Grundlage die Fragestellung nach einer effektiven "datenbasierten Entscheidungsfindung" stehen.  Datenaufbereitung steht typischerweise   
+Sollen im Rahmen der Arbeit bspw. spezifische Daten aufbereitet und/oder ein Dashboard erstellt werden, ist es nicht ausreichend, lediglich die Umsetzung der entsprechenden Tätigkeiten zu dokumentieren. Stattdessen muss im Kontext der theoretischen Fundierung zunächst eine allgemeine Grundlage für die spezifischen Tätigkeiten identifiziert und thematisiert werden. Da die Datenaufbereitung und Dashboarderstellung typischerweise im Kontext der Zielsetzung einer besseren Entscheidungsfindung stattfindet, könnte als theoretische Grundlage die Fragestellung nach einer möglichst effektiven datenbasierten Entscheidungsfindung stehen. In diesem Zusammenhang ergeben sich unterschiedliche Fragen:
+
+- Was sind Grundlagen erfolgreicher Entscheidungsfindungen in Unternehmen?
+- 
 
 
 
