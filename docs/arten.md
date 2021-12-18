@@ -10,12 +10,16 @@ Unten finden Sie Hinweise zu den beiden Arten.
 
 ## Hinweise zu Kooperationen
 
-Unabhängig von der Art der wissenschaftlichen Arbeit besteht jeweils die Möglichkeit, diese in **Kooperation mit einem Unternehmen** zu verfassen. Bei einer Kooperation wird von Seiten des Unternehmens typischerweise eine spezifische Fragestellung formuliert, die im Rahmen der wissenschaftlichen Arbeit bearbeitet werden soll. In diesem Fall eignt sich in der Regel die Anwendung der `Design Science Research Methode`.
+Unabhängig von der Art der wissenschaftlichen Arbeit besteht jeweils die Möglichkeit, diese in **Kooperation mit einem Unternehmen** zu verfassen. Bei einer Kooperation wird von Seiten des Unternehmens typischerweise eine spezifische Fragestellung formuliert, die im Rahmen der wissenschaftlichen Arbeit bearbeitet werden soll. In diesem Fall eignt sich in der Regel die Anwendung der `Design Science Research Methode` (siehe unten).
 
-Wichtige Hinweise zu Arbeiten mit Unternehmen:
+Bitte beachten Sie, dass die Fragestellung so formuliert sein muss, dass für deren Bearbeitung eine theoretische Fundierung genutzt werden kann. Zudem muss eine Verallgemeinerbarkeit der Erkenntnisse über das behandelte Unternehmen hinaus gegeben sein. 
 
-- Die theoretische Fundierung der Arbeit ist auch im Rahmen einer Kooperation zwingend erforderlich (Literaturanalyse etc.).
-- Eine Verallgemeinerbarkeit über das behandelte Unternehmen hinaus muss gegeben sein.
+Beispiel: 
+
+Sollen im Rahmen der Arbeit bspw. spezifische Daten aufbereitet und/oder ein Dashboard erstellt werden, ist es nicht ausreichend, lediglich die Umsetzung der entsprechenden Tätigkeiten zu dokumentieren. Stattdessen muss im Kontext der theoretischen Fundierung zunächst eine allgemeine Grundlage für die spezifischen Tätigkeiten identifiziert und thematisiert werden. Da die Datenaufbereitung und Dashboarderstellung typischerweise im Kontext einer besseren Entscheidungsfindung stattfindet, könnte als theoretische Grundlage die Fragestellung nach einer effektiven "datenbasierten Entscheidungsfindung" stehen.  Datenaufbereitung steht typischerweise   
+
+
+
 
 ## Design Science Research
 
