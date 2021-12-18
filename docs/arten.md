@@ -19,9 +19,11 @@ Beispiel:
 Sollen im Rahmen der Arbeit bspw. spezifische Daten aufbereitet und/oder ein Dashboard erstellt werden, ist es nicht ausreichend, lediglich die Umsetzung der entsprechenden Tätigkeiten zu dokumentieren. Stattdessen muss im Kontext der theoretischen Fundierung zunächst eine allgemeine Grundlage für die spezifischen Tätigkeiten identifiziert und thematisiert werden. Da die Datenaufbereitung und Dashboarderstellung typischerweise im Kontext der Zielsetzung einer besseren Entscheidungsfindung stattfindet, könnte als theoretische Grundlage die Fragestellung nach einer möglichst effektiven datenbasierten Entscheidungsfindung stehen. In diesem Zusammenhang ergeben sich unterschiedliche Fragen:
 
 - Was sind Grundlagen erfolgreicher Entscheidungsfindungen in Unternehmen?
-- 
 
 
+[Yu, C. H. (2010). Exploratory data analysis in the context of data mining and resampling. International Journal of Psychological Research, 3(1), 9-22.](https://www.redalyc.org/pdf/2990/299023509014.pdf)
+
+[Becher, J. D., Berkhin, P., & Freeman, E. (2000, August). Automating exploratory data analysis for efficient data mining. In Proceedings of the sixth ACM SIGKDD international conference on Knowledge discovery and data mining (pp. 424-429).](https://dl.acm.org/doi/pdf/10.1145/347090.347179?casa_token=s1H63DdGkFIAAAAA:k92fm2vclEJx_i3F_hVUOYXx84VwT7kjJOwF-Z-CK1EULaDsFFbPkzA_2yTLcgG1sRnI4nVxUxcW)
 
 
 ## Design Science Research
