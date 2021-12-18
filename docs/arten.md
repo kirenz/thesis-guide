@@ -2,15 +2,15 @@
 
 Bei der Erstellung einer wissenschaftlichen Arbeit kann zwischen verschiedenen Arten unterschieden werden. Bitte beachten Sie, dass lediglich Arbeiten der folgenden Art betreut werden:
 
-- Erstellung einer technologischen Lösung (bspw. im Bereich Machine Learning, Analytics, Data Engineering, Dashboards, ...): `Design Science Research Methode`.
+- Erstellung einer technologischen Lösung (bspw. im Bereich Machine Learning, Analytics, Data Engineering, Dashboards, ...) unter Nutzung der `Design Science Research Methode`.
 
-- Erstellung eines statistischen Modells und/oder Prüfung von Hypothesen (bspw. im Rahmen eines A/B-Tests): `Quantitative empirische Arbeit`.
+- Erstellung eines statistischen Modells und/oder Prüfung von Hypothesen (bspw. im Rahmen eines A/B-Tests) im Rahmen einer `quantitativen empirischen Arbeit`.
 
-Unten finden Sie Hinweise zu den beiden Arten.
+Weiter unten finden Sie Hinweise zu den beiden Arten. Unabhängig von der Art der wissenschaftlichen Arbeit besteht jeweils die Möglichkeit, diese in Kooperation mit einem Unternehmen zu verfassen. Lesen Sie bitte aufmerksam die folgenden Hinweise, falls Sie die Arbeit in Kooperation mit einem Unternehmen verfassen möchten. 
 
 ## Hinweise zu Kooperationen
 
-Unabhängig von der Art der wissenschaftlichen Arbeit besteht jeweils die Möglichkeit, diese in **Kooperation mit einem Unternehmen** zu verfassen. Bei einer Kooperation wird von Seiten des Unternehmens typischerweise eine spezifische Fragestellung formuliert, die im Rahmen der wissenschaftlichen Arbeit bearbeitet werden soll. In diesem Fall eignt sich in der Regel die Anwendung der `Design Science Research Methode` (siehe unten).
+Bei einer Kooperation wird von Seiten des Unternehmens typischerweise eine spezifische Fragestellung formuliert, die im Rahmen der wissenschaftlichen Arbeit bearbeitet werden soll. In diesem Fall eignt sich in der Regel die Anwendung der `Design Science Research Methode` (siehe unten).
 
 Bitte beachten Sie, dass die Fragestellung so formuliert sein muss, dass für deren Bearbeitung eine theoretische Fundierung genutzt werden kann. Zudem muss eine Verallgemeinerbarkeit der Erkenntnisse über das behandelte Unternehmen hinaus gegeben sein. 
 
