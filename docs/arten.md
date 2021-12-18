@@ -21,6 +21,10 @@ Sollen im Rahmen der Arbeit bspw. spezifische Daten aufbereitet und/oder ein Das
 - Was sind Grundlagen erfolgreicher Entscheidungsfindungen in Unternehmen?
 
 
+[Gosh, S. (2021). A Comprehensive Guide to Data Preprocessing](https://neptune.ai/blog/data-preprocessing-guide)
+
+[Tukey, J. W. (1977). Exploratory data analysis (Vol. 2, pp. 131-160).](http://theta.edu.pl/wp-content/uploads/2012/10/exploratorydataanalysis_tukey.pdf)
+
 [Yu, C. H. (2010). Exploratory data analysis in the context of data mining and resampling. International Journal of Psychological Research, 3(1), 9-22.](https://www.redalyc.org/pdf/2990/299023509014.pdf)
 
 [Becher, J. D., Berkhin, P., & Freeman, E. (2000, August). Automating exploratory data analysis for efficient data mining. In Proceedings of the sixth ACM SIGKDD international conference on Knowledge discovery and data mining (pp. 424-429).](https://dl.acm.org/doi/pdf/10.1145/347090.347179?casa_token=s1H63DdGkFIAAAAA:k92fm2vclEJx_i3F_hVUOYXx84VwT7kjJOwF-Z-CK1EULaDsFFbPkzA_2yTLcgG1sRnI4nVxUxcW)
