@@ -2,26 +2,26 @@
 
 Bei der Erstellung einer wissenschaftlichen Arbeit kann zwischen verschiedenen Arten unterschieden werden. Bitte beachten Sie, dass lediglich Arbeiten der folgenden Art betreut werden:
 
-- Erstellung einer technologischen Lösung (bspw. im Bereich Machine Learning, Analytics, Data Engineering, Dashboards, ...): `Design Science Research Methode`.
+- Erstellung einer technologischen Lösung (bspw. im Bereich Machine Learning, Analytics, Data Engineering, Dashboards, ...) unter Nutzung der `Design Science Research Methode`.
 
-- Erstellung eines statistischen Modells und/oder Prüfung von Hypothesen (bspw. im Rahmen eines A/B-Tests): `Quantitative empirische Arbeit`.
+- Erstellung eines (statistischen) Modells und/oder Prüfung von Hypothesen (bspw. mit einem A/B-Test) im Rahmen einer `quantitativen empirischen Arbeit`.
 
-Unten finden Sie Hinweise zu den beiden Arten.
+Weiter unten finden Sie Hinweise zu den beiden Arten. Unabhängig von der Art der wissenschaftlichen Arbeit besteht jeweils die Möglichkeit, diese in Kooperation mit einem Unternehmen zu verfassen. Lesen Sie bitte die folgenden Hinweise, falls Sie die Arbeit in Kooperation mit einem Unternehmen verfassen möchten.
 
 ## Hinweise zu Kooperationen
 
-Unabhängig von der Art der wissenschaftlichen Arbeit besteht jeweils die Möglichkeit, diese in **Kooperation mit einem Unternehmen** zu verfassen. Bei einer Kooperation wird von Seiten des Unternehmens typischerweise eine spezifische Fragestellung formuliert, die im Rahmen der wissenschaftlichen Arbeit bearbeitet werden soll. In diesem Fall eignt sich in der Regel die Anwendung der `Design Science Research Methode`.
+Bei einer Kooperation wird von Seiten des Unternehmens typischerweise eine spezifische Fragestellung formuliert, die im Rahmen der wissenschaftlichen Arbeit bearbeitet werden soll.
 
-Wichtige Hinweise zu Arbeiten mit Unternehmen:
+Bitte beachten Sie, dass die Fragestellung so formuliert sein muss, dass für deren Bearbeitung eine theoretische Fundierung genutzt werden kann. Zudem muss eine Verallgemeinerbarkeit der Erkenntnisse über das behandelte Unternehmen hinaus (für die Praxis und Theorie) gegeben sein.
 
-- Die theoretische Fundierung der Arbeit ist auch im Rahmen einer Kooperation zwingend erforderlich (Literaturanalyse etc.).
-- Eine Verallgemeinerbarkeit über das behandelte Unternehmen hinaus muss gegeben sein.
+Sollen im Rahmen der Arbeit bspw. spezifische Daten aufbereitet und/oder ein Dashboard erstellt werden, ist es nicht ausreichend, lediglich die Umsetzung der entsprechenden Tätigkeiten zu dokumentieren. Stattdessen muss im Kontext der theoretischen Fundierung zunächst relevante Literatur recherchiert werden (wissenschaftliche Quellen und Best Practice Änsätze), auf welche die eigene Arbeit aufbauen kann. 
+
 
 ## Design Science Research
 
-Sollen im Rahmen der Arbeit mit Hilfe von Technologien (bspw. Python, R, Open Source Software, Microsoft Power BI, ...) Lösungen für eine bestimmte Fragestellung erstellt werden, eignet sich die Verwendung der Desing Science Research Methode (DSRM), die auch als "gestaltungsorientierte Forschung" bezeichnet wird (im Kontext der DSRM werden Lösungen als "Artefakte" bezeichnet). 
+Sollen im Rahmen der Arbeit mit Hilfe von Technologien (bspw. Python, R, Open Source Software, Microsoft Power BI, ...) Lösungen für eine bestimmte Fragestellung erstellt werden, eignet sich die Verwendung der Desing Science Research Methode (DSRM), die auch als "gestaltungsorientierte Forschung" bezeichnet wird. Im Kontext der DSRM werden Lösungen auch als "Artefakte" bezeichnet.
 
-Hevner et. al. (2004) zufolge besteht die Zielsetzung des DSRM darin, mithilfe neuartiger Artefakte unternehmensrelevanten Problemstellungen zu lösen und gleichzeitig durch deren systematischer Dokumentation dem theoretischen Wissenszuwachs zuträglich zu sein. Der hierfür konzipierte  Kreislauf dreier Zyklen - Rigorosität, Relevanz und Design – ist als konzeptioneller Ordnungsrahmen zu verstehen (Hevner, 2007): 
+Hevner et. al. (2004) zufolge besteht die Zielsetzung der DSRM darin, mithilfe neuartiger Artefakte (d.h. Lösungen) unternehmensrelevanten Problemstellungen zu lösen und gleichzeitig durch deren systematischen Dokumentation den theoretischen Wissenszuwachs zu sichern. Hierfür wurde von den Autoren ein Kreislauf dreier Zyklen mit den Bestandteilen "Rigorosität", "Relevanz" und "Design" konzipiert (Hevner, 2007):
 
 ```{image} ../_static/img/dsrm-cycles.png
 :alt: dsrm
@@ -32,11 +32,12 @@ Hevner et. al. (2004) zufolge besteht die Zielsetzung des DSRM darin, mithilfe n
 
 - Relevanz-Zyklus: Unternehmensumwelt wird mit dem Forschungsvorhaben verzahnt und auf diese Weise sowohl die Problemstellung als auch die Anforderungen an die Artefakte spezifiziert. Ein Artefakt kann dabei eine Technologie, eine Methode, ein Modell ect. darstellen. 
 
-- Rigor-Zyklus: Erstellung des Artefakts unter Berücksichtigung bereits bestehender Wissensbasis (Literatur, Best Practice Ansätze). 
+- Rigor-Zyklus: Erstellung des Artefakts unter Berücksichtigung bereits bestehender Wissensbasis (Literaturrecherche, Best Practice Ansätze). 
   
-- Design-Zyklus: Erstellung der Artefakte (Modelle, Methoden, ... ) unter Einbeziehung der in den beiden anderen Zyklen gewonnenen Erkenntnisse.  8
+- Design-Zyklus: Erstellung der Artefakte (Modelle, Methoden, ... ) unter Einbeziehung der in den beiden anderen Zyklen gewonnenen Erkenntnisse.
 
-Peffers et al. (2007) überführten die Zyklen in einen Prozess, der in der nachfolgenden Abbildung dargestellt ist. In dieser ist der Prozess der DSRM für ein Beispiel, in welchem ein Data Warehouse entwickelt werden soll, dargestellt:
+
+Peffers et al. (2007) überführten die drei Zyklen in einen Prozess, der als Grundlage für die Gliederung der eigenen Arbeit genutzt werden kann. Hier ein Beispiel, in welchem ein Data Warehouse entwickelt werden soll:
 
 ```{image} ../_static/img/dsrm-process.png
 :alt: dsrm
@@ -75,11 +76,11 @@ Die Vorgehensweise folgt typischerweise diesem Schema:
 
 1. Beschreibung der Problemstellung und Zielsetzung
 2. Darstellung der relevanten Grundlagen
-3. Recherche und Aufarbeitung der relevanten Literatur
-4. Formulierung von Hypothesen (id.R. 2 bis 5)
+3. Recherche und Aufarbeitung der relevanten Literatur (was ist der aktuelle Erkenntnisstand?)
+4. Formulierung von Hypothesen (üblicherweise 2 bis 5)
 5. Definition der erforderlichen Stichprobe und Daten (für die Prüfung der Hypothesen)
 6. Erhebung der Daten (bspw. mittels Umfrage, Experiment oder quantitativer Inhaltsanalyse mittels Web-Scraping oder mit API's)
 7. Deskriptive Analysen
 8. Prüfung der Hypothesen und/oder Erstellung eines Modells
-9. Interpretation der Ergenisse
+9. Interpretation der Ergebnisse
 10. Fazit
