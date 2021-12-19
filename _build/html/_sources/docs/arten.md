@@ -68,7 +68,7 @@ Die Vorgehensweise folgt typischerweise diesem Schema:
 
 ```
 
-## Quantitative empirische Arbeit: Prüfung von Hypothesen
+## Quantitative empirische Arbeit
 
 Im Rahmen einer quantitativen empirischen Arbeit werden mit Hilfe von Daten und Analysen Hypothesen untersucht. In diesem Zusammenhnang können auch statistische Modelle wie die Regression oder Klassifikation zum Einsatz kommen.
 
