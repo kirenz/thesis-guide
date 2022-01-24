@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Arten wissenschaftlicher Arbeiten &#8212; Thesis Guide</title>
     
-  <link href="../_static/css/theme.css" rel="stylesheet" />
-  <link href="../_static/css/index.c5995385ac14fb8791e8eb36b4908be2.css" rel="stylesheet" />
+  <link href="../_static/css/theme.css" rel="stylesheet">
+  <link href="../_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -31,7 +31,7 @@
     <link rel="stylesheet" type="text/css" href="../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
     
-  <link rel="preload" as="script" href="../_static/js/index.1c5a1a01449ed65a7b51.js">
+  <link rel="preload" as="script" href="../_static/js/index.be7d3bbb2ef33a8344ce.js">
 
     <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
     <script src="../_static/jquery.js"></script>
@@ -41,8 +41,7 @@
     <script src="../_static/clipboard.min.js"></script>
     <script src="../_static/copybutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="../_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
-    <script src="../_static/sphinx-book-theme.js"></script>
+    <script src="../_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
     <script async="async" src="https://unpkg.com/thebe@0.5.1/lib/index.js"></script>
     <script>
         const thebe_selector = ".thebe"
@@ -52,10 +51,13 @@
     <script async="async" src="../_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Themen" href="thema.html" />
+    <link rel="next" title="Design Science Research" href="design-science-research.html" />
     <link rel="prev" title="Willkommen" href="intro.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="docsearch:language" content="en" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
     
   </head>
   <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
@@ -94,7 +96,7 @@
   </a>
  </li>
 </ul>
-<p class="caption" role="heading">
+<p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
   Überblick
  </span>
@@ -105,8 +107,18 @@
    Arten wissenschaftlicher Arbeiten
   </a>
  </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="design-science-research.html">
+   Design Science Research
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="quantitativ.html">
+   Quantitative empirische Arbeit
+  </a>
+ </li>
 </ul>
-<p class="caption" role="heading">
+<p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
   Themenfindung
  </span>
@@ -123,7 +135,7 @@
   </a>
  </li>
 </ul>
-<p class="caption" role="heading">
+<p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
   Recherche
  </span>
@@ -180,7 +192,7 @@
                 data-placement="left">.md</button></a>
         <!-- Download PDF via print -->
         <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
     </div>
 </div>
 
@@ -214,7 +226,7 @@
         </div>
 
         <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show">
+        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
             
             <div class="tocsection onthispage pt-5 pb-3">
                 <i class="fas fa-list"></i> Contents
@@ -226,16 +238,6 @@
    Hinweise zu Kooperationen
   </a>
  </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#design-science-research">
-   Design Science Research
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#quantitative-empirische-arbeit">
-   Quantitative empirische Arbeit
-  </a>
- </li>
 </ul>
 
             </nav>
@@ -244,7 +246,30 @@
 </div>
     <div id="main-content" class="row">
         <div class="col-12 col-md-9 pl-md-3 pr-md-0">
-        
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Arten wissenschaftlicher Arbeiten</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#hinweise-zu-kooperationen">
+   Hinweise zu Kooperationen
+  </a>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            
               <div>
                 
   <div class="tex2jax_ignore mathjax_ignore section" id="arten-wissenschaftlicher-arbeiten">
@@ -260,54 +285,6 @@
 <p>Bei einer Kooperation wird von Seiten des Unternehmens typischerweise eine spezifische Fragestellung formuliert, die im Rahmen der wissenschaftlichen Arbeit bearbeitet werden soll.</p>
 <p>Bitte beachten Sie, dass die Fragestellung so formuliert sein muss, dass für deren Bearbeitung eine theoretische Fundierung genutzt werden kann. Zudem muss eine Verallgemeinerbarkeit der Erkenntnisse über das behandelte Unternehmen hinaus (für die Praxis und Theorie) gegeben sein.</p>
 <p>Sollen im Rahmen der Arbeit bspw. spezifische Daten aufbereitet und/oder ein Dashboard erstellt werden, ist es nicht ausreichend, lediglich die Umsetzung der entsprechenden Tätigkeiten zu dokumentieren. Stattdessen muss im Kontext der theoretischen Fundierung zunächst relevante Literatur recherchiert werden (wissenschaftliche Quellen und Best Practice Änsätze), auf welche die eigene Arbeit aufbauen kann.</p>
-</div>
-<div class="section" id="design-science-research">
-<h2>Design Science Research<a class="headerlink" href="#design-science-research" title="Permalink to this headline">¶</a></h2>
-<p>Sollen im Rahmen der Arbeit mit Hilfe von Technologien (bspw. Python, R, Open Source Software, Microsoft Power BI, …) Lösungen für eine bestimmte Fragestellung erstellt werden, eignet sich die Verwendung der Desing Science Research Methode (DSRM), die auch als “gestaltungsorientierte Forschung” bezeichnet wird. Im Kontext der DSRM werden Lösungen auch als “Artefakte” bezeichnet.</p>
-<p>Hevner et. al. (2004) zufolge besteht die Zielsetzung der DSRM darin, mithilfe neuartiger Artefakte (d.h. Lösungen) unternehmensrelevanten Problemstellungen zu lösen und gleichzeitig durch deren systematischen Dokumentation den theoretischen Wissenszuwachs zu sichern. Hierfür wurde von den Autoren ein Kreislauf dreier Zyklen mit den Bestandteilen “Rigorosität”, “Relevanz” und “Design” konzipiert (Hevner, 2007):</p>
-<a class="bg-primary mb-1 reference internal image-reference" href="../_images/dsrm-cycles.png"><img alt="dsrm" class="bg-primary mb-1 align-center" src="../_images/dsrm-cycles.png" style="width: 600px;" /></a>
-<ul class="simple">
-<li><p>Relevanz-Zyklus: Unternehmensumwelt wird mit dem Forschungsvorhaben verzahnt und auf diese Weise sowohl die Problemstellung als auch die Anforderungen an die Artefakte spezifiziert. Ein Artefakt kann dabei eine Technologie, eine Methode, ein Modell ect. darstellen.</p></li>
-<li><p>Rigor-Zyklus: Erstellung des Artefakts unter Berücksichtigung bereits bestehender Wissensbasis (Literaturrecherche, Best Practice Ansätze).</p></li>
-<li><p>Design-Zyklus: Erstellung der Artefakte (Modelle, Methoden, … ) unter Einbeziehung der in den beiden anderen Zyklen gewonnenen Erkenntnisse.</p></li>
-</ul>
-<p>Peffers et al. (2007) überführten die drei Zyklen in einen Prozess, der als Grundlage für die Gliederung der eigenen Arbeit genutzt werden kann. Hier ein Beispiel, in welchem ein Data Warehouse entwickelt werden soll:</p>
-<a class="bg-primary mb-1 reference internal image-reference" href="../_images/dsrm-process.png"><img alt="dsrm" class="bg-primary mb-1 align-center" src="../_images/dsrm-process.png" style="width: 600px;" /></a>
-<br>
-<p>Die Vorgehensweise folgt typischerweise diesem Schema:</p>
-<ol class="simple">
-<li><p>Beschreibung der Problemstellung und Motivation</p></li>
-<li><p>Recherche und Aufarbeitung der relevanten Literatur (Theorien, Best Practice Ansätze, State of the Art Ansätze)</p></li>
-<li><p>Definition der Zielsetzung und Erstellung eines Anforderungskatalogs (was ist der gewünschte Funktionsumfang der Artefakte?)</p></li>
-<li><p>Design und Entwicklung der Artefakte</p></li>
-<li><p>Demonstration und Evaluation der Artefakte</p></li>
-<li><p>Kommunikation (optional)</p></li>
-</ol>
-<div class="tip admonition">
-<p class="admonition-title">Literatur</p>
-<ul class="simple">
-<li><p><a class="reference external" href="https://drive.google.com/file/d/1gZPittSxfb1t5AM2lBVPOW4tr_FLZxdn/view?usp=sharing">Process of Design Science Research Methodology (Peffers et al., 2007)</a></p></li>
-<li><p><a class="reference external" href="https://drive.google.com/file/d/1CC7Q-4avgoS7Z1SreuM_Jz5tuat6rjNt/view?usp=sharing">Design Science Research Guidelines (Hevner et al., 2004)</a></p></li>
-<li><p><a class="reference external" href="https://drive.google.com/file/d/1Ocy0UkjFSEyeiI4RVvBbQc2P1pxNuzEZ/view?usp=sharing">A Three Cycle View of Design Science Research (Hevner, 2007)</a></p></li>
-</ul>
-</div>
-</div>
-<div class="section" id="quantitative-empirische-arbeit">
-<h2>Quantitative empirische Arbeit<a class="headerlink" href="#quantitative-empirische-arbeit" title="Permalink to this headline">¶</a></h2>
-<p>Im Rahmen einer quantitativen empirischen Arbeit werden mit Hilfe von Daten und Analysen Hypothesen untersucht. In diesem Zusammenhnang können auch statistische Modelle wie die Regression oder Klassifikation zum Einsatz kommen.</p>
-<p>Die Vorgehensweise folgt typischerweise diesem Schema:</p>
-<ol class="simple">
-<li><p>Beschreibung der Problemstellung und Zielsetzung</p></li>
-<li><p>Darstellung der relevanten Grundlagen</p></li>
-<li><p>Recherche und Aufarbeitung der relevanten Literatur (was ist der aktuelle Erkenntnisstand?)</p></li>
-<li><p>Formulierung von Hypothesen (üblicherweise 2 bis 5)</p></li>
-<li><p>Definition der erforderlichen Stichprobe und Daten (für die Prüfung der Hypothesen)</p></li>
-<li><p>Erhebung der Daten (bspw. mittels Umfrage, Experiment oder quantitativer Inhaltsanalyse mittels Web-Scraping oder mit API’s)</p></li>
-<li><p>Deskriptive Analysen</p></li>
-<li><p>Prüfung der Hypothesen und/oder Erstellung eines Modells</p></li>
-<li><p>Interpretation der Ergebnisse</p></li>
-<li><p>Fazit</p></li>
-</ol>
 </div>
 </div>
 
@@ -333,54 +310,42 @@
 
               </div>
               
-        
             
-
-
-
-<div class='prev-next-bottom'>
-    
-    <div id="prev">
-        <a class="left-prev" href="intro.html" title="previous page">
-            <i class="prevnext-label fas fa-angle-left"></i>
-            <div class="prevnext-info">
-                <p class="prevnext-label">previous</p>
-                <p class="prevnext-title">Willkommen</p>
-            </div>
-        </a>
+                <!-- Previous / next buttons -->
+<div class='prev-next-area'> 
+    <a class='left-prev' id="prev-link" href="intro.html" title="previous page">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">previous</p>
+            <p class="prev-next-title">Willkommen</p>
+        </div>
+    </a>
+    <a class='right-next' id="next-link" href="design-science-research.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Design Science Research</p>
     </div>
-     <div id="next">
-        <a class="right-next" href="thema.html" title="next page">
-            <div class="prevnext-info">
-                <p class="prevnext-label">next</p>
-                <p class="prevnext-title">Themen</p>
-            </div>
-            <i class="prevnext-label fas fa-angle-right"></i>
-        </a>
-     </div>
-
+    <i class="fas fa-angle-right"></i>
+    </a>
 </div>
-        
+            
         </div>
     </div>
     <footer class="footer">
-    <div class="container">
-      <p>
-        
-          By Jan Kirenz<br/>
-        
-            &copy; Copyright 2021.<br/>
-      </p>
-    </div>
-  </footer>
+  <p>
+    
+      By Jan Kirenz<br/>
+    
+        &copy; Copyright 2021.<br/>
+  </p>
+</footer>
 </main>
 
 
       </div>
     </div>
   
-  <script src="../_static/js/index.1c5a1a01449ed65a7b51.js"></script>
+  <script src="../_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
 
-  
   </body>
 </html>
