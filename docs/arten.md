@@ -19,7 +19,7 @@ Sollen im Rahmen der Arbeit bspw. spezifische Daten aufbereitet und/oder ein Das
 
 ## Design Science Research
 
-Sollen im Rahmen der Arbeit mit Hilfe von Technologien (bspw. Python, R, Open Source Software, Microsoft Power BI, ...) Lösungen für eine bestimmte Fragestellung erstellt werden, eignet sich die Verwendung der Desing Science Research Methode (DSRM), die auch als "gestaltungsorientierte Forschung" bezeichnet wird. Im Kontext der DSRM werden Lösungen auch als "Artefakte" bezeichnet.
+Sollen im Rahmen der Arbeit mit Hilfe von Technologien (bspw. Python, R, Open Source Software, Microsoft Power BI, ...) Lösungen für eine bestimmte Fragestellung erstellt werden, eignet sich die Verwendung der Design Science Research Methode (DSRM), die auch als "gestaltungsorientierte Forschung" bezeichnet wird. Im Kontext der DSRM werden Lösungen auch als "Artefakte" bezeichnet.
 
 Hevner et. al. (2004) zufolge besteht die Zielsetzung der DSRM darin, mithilfe neuartiger Artefakte (d.h. Lösungen) unternehmensrelevanten Problemstellungen zu lösen und gleichzeitig durch deren systematischen Dokumentation den theoretischen Wissenszuwachs zu sichern. Hierfür wurde von den Autoren ein Kreislauf dreier Zyklen mit den Bestandteilen "Rigorosität", "Relevanz" und "Design" konzipiert (Hevner, 2007):
 
