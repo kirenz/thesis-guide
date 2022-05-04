@@ -16,6 +16,11 @@ parts:
   - caption: Recherche
     chapters:
     - file: docs/recherche.md
+  - caption: Kolloquium
+    chapters:
+    - file: docs/kolloquium.md  
+    - file: docs/kolloquium-dsr.md   
+    - file: docs/kolloquium-quantitativ.md       
 #  - caption: Literaturquellen
 #    chapters:
 #    - file: docs/reference.md
