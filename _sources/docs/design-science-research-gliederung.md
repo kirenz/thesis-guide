@@ -2,6 +2,7 @@
 
 Hier eine beispielhafte Gliederung, die sich an den Phasen der Design Science Research-Methode orientiert:
 
+```Bash
 
 1 Einleitung
   1.1 Motivation
@@ -19,6 +20,7 @@ Hier eine beispielhafte Gliederung, die sich an den Phasen der Design Science Re
   3.1 
   3.2
   3.3
+  ...
 
 4 Design und Entwicklung
   4.1 ...
@@ -33,6 +35,7 @@ Hier eine beispielhafte Gliederung, die sich an den Phasen der Design Science Re
 
 
 6 Fazit
+```
 
 
 Hinweise zu den einzelnen Kapiteln:
