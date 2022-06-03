@@ -8,6 +8,7 @@ parts:
     chapters:
     - file: docs/arten.md
     - file: docs/design-science-research.md
+    - file: docs/design-science-research-gliederung.md
     - file: docs/quantitativ.md
   - caption: Themenfindung
     chapters:
