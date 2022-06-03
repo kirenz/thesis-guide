@@ -42,23 +42,24 @@ Hinweise zu den einzelnen Kapiteln:
 
 - Kapitel 1: Kurze Beschreibung des Forschungsvorhabens. In Kapitel 1.3 wird der Design Science Research-Ansatz prägnant vorgestellt.   
 
+<br>
 
 
 - Kapitel 2: Behandlung relevanter Grundlagen (beginnend mit einer ausführlichen Beschreibung der Problemstellung), des aktuellen Forschungsstandes und State-of-the-Art-Lösungen.  
 
-
+<br>
 
 - Kapitel 3: Aufbauend auf Kapitel 2 werden die Zielsetzungen der Artefakte konkret definiert und damit einhergehend ein Anforderungskatalogs an die zu entwickelnden Lösungen definiert. Beispielhafte Inhalte: was ist jeweils der gewünschte bzw. umsetzbare Funktionsumfang der Lösungen? Welche Funktionen haben eine besonders hohe Priorität? Wie kann der Funktionsumfang zu einem späteren Zeitpunkt systematisch evaluiert werden? ...)
 
-
+<br>
 
 - Kapitel 4: Design und Entwicklung der Artefakte gemäß der Erkenntnisse aus Kapitel 2 und Vorgaben in Kapitel 3.
 
-
+<br>
 
 - Kapitel 5: Systematische Evaluation der eigenen Lösung anhand der Kriterien aus Kapitel 3.
 
-
+<br>
 
 - Kapitel 6: Kritisches Fazit.
 
