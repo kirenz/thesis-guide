@@ -1,5 +1,9 @@
 # Quantitative Forschungsarbeit
 
+:::{Note}
+In dem Vortrag sollen Sie für ca. 15-20 Minuten die Kernergebnisse Ihrer Arbeit vorstellen.
+:::
+
 Bei der nachfolgenden Auflistung und Zeiteinteilung handelt es sich lediglich um eine grobe Orientierung. Sie können bei Bedarf auch davon abweichen. 
 
 1. Beschreibung der Problemstellung und grobe Zielbeschreibung (ca. 2 Minuten)
