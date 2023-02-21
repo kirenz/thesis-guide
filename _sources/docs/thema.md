@@ -1,164 +1,64 @@
 # Themen
 
-Bei den unten aufgeführten Inhalten handelt es sich nicht um eine Auflistung von konkreten Themen für Abschlussarbeiten, sondern lediglich um thematische Eingrenzungen. Innerhalb jedes Themengebietes können nach Absprache individuelle Fragestellungen bearbeitet werden.
+Unten finden Sie eine Auflistung von Themenvorschlägen, die als mögliche Schwerpunkte für Ihre Abschlussarbeit dienen können. Die Themen wurden bewusst relativ allgemein formuliert, damit Sie die Möglichkeit haben, Ihre individuellen Interessen und Schwerpunkte einzubringen. 
 
-Falls die von Ihnen präferierte Thematik nicht aufgeführt sein sollte, können Sie mir gerne Ihren Themenvorschlag zukommen lassen.
+Wenn Sie sich für einen der Themenbereiche entscheiden, senden Sie mir bitte eine E-Mail mit dem gewünschten Thema sowie Ihren ersten Überlegungen zu möglichen Forschungsfragen.
 
-## Analytics, Data Science & AI
+Falls Ihnen keines der aufgeführten Themen zusagt, können Sie mir gerne eine Nachricht mit Themenvorschlägen zukommen lassen. 
 
-Thematik | Hinweise | Technologien | Beiträge
--- | -- | --- | ---
-Predictive Analytics | [Themenüberblick](https://www.qualtrics.com/de/erlebnismanagement/marktforschung/predictive-analytics/) | |
-Customer Analytics; Marketing Analytics |  | | [Customer Lifecycle Management](https://drive.google.com/file/d/1TnFnnbwrxJU4PBBVeR5_aA-NM80s2_Hk/view?usp=drivesdk) 
-Recommendation Systeme |[Übersicht](https://kirenz.github.io/recommender/docs/intro.html) | TensorFlow Recommenders, LightFM, Surprise  |
-Natural Language Processing; Text Mining | | [NLTK](https://www.nltk.org), [spaCy](https://spacy)
-Web Analytics; Digital Marketing Analytics | [Übersicht](https://kirenz.github.io/bigdata/) | | [HubSpot](https://blog.hubspot.de/marketing/gewusst-wie-digital-marketing-analytics), [Heap](https://heap.io)
-Deep Learning | | [Keras](https://keras.io), [TensorFlow](https://www.tensorflow.org) |
+Die Arbeiten können in Deutscher oder Englischer Sprache verfasst werden.
 
-<br>
 
-## Dashboards, Reporting & Business Intelligence
+## Topics
 
-Thematik | Hinweise | Technologien | Beiträge
--- | -- | --- | ---
-Dashboards | | [Dash](https://github.com/kirenz/dash-tutorial), [Shiny](https://shiny.rstudio.com), [PowerBI](https://powerbi.microsoft.com/de-de/), [Tableau](https://www.tableau.com/de-de) |
-Reporting; Data Storytelling | [Übersicht](https://kirenz.github.io/data-storytelling/) | |
+### Chatbots and Virtual Assistants
 
-<br>
+Chatbots and Virtual Assistants: Develop and implement chatbots or virtual assistants for e-commerce or other fields, using natural language processing and machine learning algorithms to provide personalized customer support and enhance the customer experience.
 
-## Data Engineering & Machine Learning Operations (MLOps)
+### Personalization and Recommender Systems
 
-Thematik | Hinweise | Technologien | Beiträge
--- | -- | --- | ---
-Machine Learning Operations | [Übersicht](https://kirenz.github.io/mlops/intro.html) | |
-Feature Engineering | | | [Book](http://www.feat.engineering) 
-Big Data Architectures | | |
+Recommender Systems: Develop new approaches for building personalized recommender systems, with a focus on incorporating user feedback and improving recommendation quality.
 
-## Abgeschlossene Arbeiten
+Personalization and Recommendations: Investigate the use of artificial intelligence algorithms for personalized product recommendations, search results, and content, with a focus on increasing customer engagement and conversion rates.
 
-Unten finden Sie eine Auswahl abgeschlossener Arbeiten.
 
-### Masterarbeiten
+### MLOps & Data Engineering
 
-#### Data Science & Machine Learning
+Continuous Integration and Continuous Deployment (CI/CD) for Machine Learning: Develop and implement an end-to-end CI/CD pipeline for machine learning models, including automated testing, deployment, and monitoring.
 
-Recommender System am Beispiel von Wertpapieren
+Model Versioning and Governance: Develop and implement a system for tracking and managing the versioning of machine learning models, including metadata such as training data, hyperparameters, and evaluation metrics.
 
-Potential ausgewählter KI Tools zur Erkennung von Betrugsverdachtsfällen bei Leasing-Geschäftskundenanfragen
+Model Monitoring and Performance Evaluation: Develop and implement a system for monitoring the performance of machine learning models in production, including real-time metrics, alerts, and feedback loops for continuous improvement.
 
-Process Mining Evolution: Effizienzsteigerung durch modellgestützte Optimierung
+Automated Machine Learning: Investigate the use of automated machine learning (AutoML) tools and techniques for optimizing machine learning workflows, including hyperparameter tuning, feature selection, and model selection.
 
-Prototypische Entwicklung einer Machine-Learning-Architektur zur automatisierten Wettbewerbsanalyse mit Hilfe von Web-Scraping
+Model Serving and Scalability: Develop and implement a system for serving machine learning models at scale, including load balancing, caching, and failover mechanisms.
 
-Building & deploying a deep learning image classification prototype using the example of automotive engine components for quality control & assurance at Mercedes-Benz AG
+Collaboration and Knowledge Sharing in MLOps: Develop and implement a system for facilitating collaboration and knowledge sharing among teams working on machine learning projects, including version control, code review, and documentation.
 
-Evaluation von ML-Methoden in einer prototypischen Implementierung am Beispiel des Energieverbrauchs von Neukunden
+Data Integration and Warehousing: Investigate the design and implementation of data integration and warehousing systems for large-scale data analysis, with a focus on scalability, performance, and data quality.
 
-Prognose von Marktpreisen mittels ML-Methoden am Beispiel des Gebrauchtwagenmarktes
 
-Entwicklung eines Monitoring-Tools für Kundenbeschwerden im Internet mit Python
+### Explainable AI
 
-Predictive Analytics im agilen Projektmanagement: Konzeption und beispielhafte Implementierung von Machine-Learning-Modellen zur Risikoidentiﬁzierung in agilen Softwareentwicklungsprojekten
+Machine Learning Interpretability: Develop new approaches for explaining the output of machine learning models to increase their interpretability and transparency.
 
-#### Data Engineering & MLOps
 
-Entwicklung einer Big Data Cloud Architektur für ein Business Intelligence System in der Fahrzeugentwicklung
 
-Identifikation von kritischen Systemen und deren Schwachstellen zur Verbesserung der IT-Sicherheit
+## Time Series Analysis
 
-Konzeption und prototypische Entwicklung einer Architektur zur automatisierten Bearbeitung von Kundenanfragen mit fokussierter Betrachtung auf den Nachrichtenaustausch über E-Mails.
+Time Series Analysis: Investigate new techniques for analyzing time series data, with applications in fields such as E-commerce, finance, and marketing.
 
-Konzeption einer Methode zur Identifikation und Implementierung von geeigneten Features für modellbasierte Umsatzforecasts
+## Natural Language Processing
 
-Entwicklung einer Referenzarchitektur- Eine Vorlage für Machine Learning Projekte auf Grundlage von MLOps
+Deep Learning for Natural Language Processing: Investigate the use of deep learning methods such as neural networks and transformers for natural language processing tasks, such as sentiment analysis or machine translation.
 
-Design and implementation of a microservices-based Big Data architecture using MLOps
+Sentiment Analysis and Customer Feedback: Develop and implement machine learning models for sentiment analysis and customer feedback analysis in e-commerce, including methods for analyzing customer reviews, social media posts, and customer support interactions.
 
-Entwicklung einer MLOps-basierten Retail-Analytics-Platform unter Verwendung der Microsoft Azure Cloud-Lösung
+## User Experience and Customer Analytics
 
-#### Analytics & Business Intelligence
+User Experience and A/B Testing: Investigate the use of artificial intelligence algorithms for optimizing user experience and A/B testing in e-commerce, including methods for website optimization, user behavior analysis, and conversion rate optimization.
 
-Entwicklung eines Modells zur regionalen Kundenpotenzialanalyse und wertorientiert gesteuertem Netzausbau für das Mobilfunk-Geschäft der Telekom Deutschland GmbH
 
-Business Intelligence Entwicklung und Implementierung eines Power BI-gestützten Warensteuerungsansatzes im mittelständischen Modehandel
+Customer Segmentation and Targeting: Develop and implement machine learning models for customer segmentation and targeting, including methods for identifying high-value customers and predicting customer lifetime value.
 
-Predictive Sales Analytics im E-Commerce der Steiff Retail GmBH
-
-Intelligent Pricing for Mercedes-Benz AG´s New Car Sales Modeling Sales Probability to optimize Discounts using Survival Analysis
-
-Data Driven Customer Journey Improving the decision making by data driven insights in a customer experience project
-
-Entwicklung eines Prototyps zur standardisierten Berechnung und Abgrenzung von Netz- und Lieferentgelten am Beispiel der RheinEnergie AG
-
-Optimierung des Zertifizierungsprozesses bei der Mercedes-Benz AG mithilfe von Vergleichsalgorithmen
-
-Time-Series-Forecasting: Materialbedarfsprognose bei PERI
-
-Prognose von unterjährigen Ist-Kosten am Beispiel des Bauprojektportfolios von DB Station &Service AG
-
-Entwicklung einer Applikation zur Ermittlung und Bewertung von Einzugsgebieten im Kontext von expansionsgetriebenen Standortanalysen
-
-Analyse- und Auswertungsmöglichkeiten durch Kundenbindungsprogramme im Einzelhandel am Beispiel der Sortimentssteuerung
-
-Data Driven Decision Making und Digital Analytics im Online Marketing von Startups und kleinen Unternehmen – ein Ansatz zur Orientierung
-
-#### Internet of Things (IoT)
-
-An Ensemble Modelling Approach for Recognizing Activities of Daily Living in the Context of Elderly Care
-
-Analyse der Effizient von komplexen Modellen zur Echtzeit Anomalieerkennung in Zeitreihen
-
-Konzeption und Entwicklung eines Prototypen zur datengetriebenen Potentialermittlung für Automatiksysteme im After Sales
-
-Technische Anforderungen an eine Hardware zum Training von Deep Learning Algorithmen für die Entwicklung autonomer Fahrzeuge
-
-Identifizierung und Implementierung einer geeigneten Analysemethode zur Verwertung von Daten einer generischen Telematikplattform für Lkws.
-
-### Bachelorarbeiten
-
-#### Data Science & Machine Learning
-
-Damage Detection on Cars with Neural Networks - Convergence Behaviors of Mid-Sized Datasets with Noisy and Ambiguous Ground Truths
-
-Identifikation von Fehlerbildern aus der Fahrzeugdiagnose - ein Data Mining Modellvergleich von Hierarchischer Clusteranalyse und Assoziationsanalyse
-
-Data Mining in sozialen Netzwerken. Eine Sentiment Analyse anhand von Data Mining-Verfahren am Beispiel Twitter
-
-Data-Mining mit Python am Beispiel der Influencer-Followe-Beziehung auf Twitter
-
-Meta Learning for Pipeline-Structure-Search
-
-Struktur-Analyse von „Fake-News“-Netzwerken
-
-#### Analytics & Business Intelligence
-
-Data-Mining mit R am Beispiel einer Cuse-Kampagne auf Instagram
-
-Entwicklung eines Data Warehouses für die KlickPiloten GmbH
-
-Eine Anforderungsanalyse für Business Intelligence Software für den Einsatz als Embedded Softwarelösung
-
-### Data Driven Marketing
-
-What potential does voice search have for the Bosch Power Tools websites?
-
-Conversion-Optimierung durch Behavior Patterns
-
-Auswirkungen eines multifunktionalen Messenger-Diensts auf die Kaufabsicht
-
-Automatisierung der Workflows im Werbesystem Google AdWords
-
-Conversion-Rate-Optimierung im E-Commerce am Beispiel des Google Merchandise Stores
-
-Analyse eines Kampagnenerfolgs auf der
-Social-Media-Plattform Facebook am Beispiel der Imageverjüngung der B-Klasse
-
-Wachstumsförderung von Portalen durch Growth Hacking Maßnahmen anhand des My Porsche Portals der Porsche Smart Mobility GmbH
-
-Verbesserung der Entscheidungsfindung im Marketing durch die Datenanalyse am Beispiel der Erdenwerk Gregor Ziegler GmbH
-
-Implementierung und Anwendung von Programmatic Advertising mit dem Ziel der Conversion-Generierung am Beispiel des Webshops der AL-KO Vehicle Technology Group
-
-Optimierung der Opt-in-Rate von rechtskonformen Cookie-Bannern für mehr verfügbare Daten im Online-Marketing
-
-Programmatic Advertising als Bestandteil der Online Paid Media am Fallbeispiel der „Gemeinsamen Sparkassenkommunikation“. Handlungsempfehlungen zur Optimierung der programmatischen Werbung und zur Ermöglichung der getrennten Ansprache von potenziellen Neukunden und Bestandskunden
