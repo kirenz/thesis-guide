@@ -95,6 +95,10 @@ Identifizierung und Implementierung einer geeigneten Analysemethode zur Verwertu
 
 ### Data Science & Machine Learning
 
+Entwicklung eines Machine Learning Modells zur Optimierung der Conversion anhand der Customer Journey
+
+MLOps in Recommender Systems: Building a Continuous Training Pipeline with Concept Drift Awareness
+
 Damage Detection on Cars with Neural Networks - Convergence Behaviors of Mid-Sized Datasets with Noisy and Ambiguous Ground Truths
 
 Identifikation von Fehlerbildern aus der Fahrzeugdiagnose - ein Data Mining Modellvergleich von Hierarchischer Clusteranalyse und Assoziationsanalyse
@@ -107,7 +111,15 @@ Meta Learning for Pipeline-Structure-Search
 
 Struktur-Analyse von „Fake-News“-Netzwerken
 
+Feature Engineering zur Verbesserung eines Machine Learning Modells für die Fehlerklassifizierung in Workload Replays bei SAP
+
+Konzeption und Implementierung von Clusteralgorithmen zur Analyse des europ ischen Nutzfahrzeugmarkts mit Python
+
 ### Analytics & Business Intelligence
+
+Konzeptentwicklung zur nutzerzentrierten Erstellung eines Business-Intelligence-Dashboards zur Visualisierung von KPIs der yourXpert GmbH
+
+Racing as a Service (RaaS) -Verwendung moderner Web-Technologien zur Fahrerperformance Optimierung im Amateurmotorsport
 
 Data-Mining mit R am Beispiel einer Cuse-Kampagne auf Instagram
 
@@ -116,6 +128,10 @@ Entwicklung eines Data Warehouses für die KlickPiloten GmbH
 Eine Anforderungsanalyse für Business Intelligence Software für den Einsatz als Embedded Softwarelösung
 
 ## Data Driven Marketing
+
+Prozessoptimierung im Content-Marketing: Automatisierte Erstellung von kreativen Inhalten mit künstlicher Intelligenz
+
+Entwicklung einer Content Marketing Strategie im B2B Bereich am Beispiel von sereact GmbH
 
 What potential does voice search have for the Bosch Power Tools websites?
 
@@ -139,3 +155,6 @@ Implementierung und Anwendung von Programmatic Advertising mit dem Ziel der Conv
 Optimierung der Opt-in-Rate von rechtskonformen Cookie-Bannern für mehr verfügbare Daten im Online-Marketing
 
 Programmatic Advertising als Bestandteil der Online Paid Media am Fallbeispiel der „Gemeinsamen Sparkassenkommunikation“. Handlungsempfehlungen zur Optimierung der programmatischen Werbung und zur Ermöglichung der getrennten Ansprache von potenziellen Neukunden und Bestandskunden
+
+Digital Nudging in E-commerce – Promoting sustainable behavior in an
+online grocery store using digital nudging
