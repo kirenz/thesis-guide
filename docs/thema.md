@@ -6,7 +6,7 @@ Wenn Sie sich für einen der Themenbereiche entscheiden, senden Sie mir bitte ei
 
 Falls Ihnen keines der aufgeführten Themen zusagt, können Sie mir gerne eine Nachricht mit Themenvorschlägen zukommen lassen. 
 
-Die Arbeiten können in Deutscher oder Englischer Sprache verfasst werden.
+Die Arbeit kann auf Deutsch oder Englisch verfasst werden.
 
 
 ## Topics
