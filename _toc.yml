@@ -6,22 +6,23 @@ root: docs/intro.md
 parts:
   - caption: Überblick
     chapters:
-    - file: docs/arten.md
-    - file: docs/design-science-research.md
-    - file: docs/design-science-research-gliederung.md
-    - file: docs/quantitativ.md
+      - file: docs/arten.md
+      - file: docs/design-science-research.md
+      - file: docs/design-science-research-gliederung.md
+      - file: docs/quantitativ.md
   - caption: Themenfindung
     chapters:
-    - file: docs/thema.md
-    - file: docs/expose.md     
+      - file: docs/thema.md
+      - file: docs/arbeiten.md
+      - file: docs/expose.md
   - caption: Recherche
     chapters:
-    - file: docs/recherche.md
+      - file: docs/recherche.md
   - caption: Kolloquium
     chapters:
-    - file: docs/kolloquium.md  
-    - file: docs/kolloquium-dsr.md   
-    - file: docs/kolloquium-quantitativ.md       
+      - file: docs/kolloquium.md
+      - file: docs/kolloquium-dsr.md
+      - file: docs/kolloquium-quantitativ.md
 #  - caption: Literaturquellen
 #    chapters:
 #    - file: docs/reference.md
