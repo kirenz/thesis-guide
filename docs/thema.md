@@ -13,7 +13,7 @@ Die Arbeiten können in Deutscher oder Englischer Sprache verfasst werden.
 
 ### Chatbots and Virtual Assistants
 
-Chatbots and Virtual Assistants: Develop and implement chatbots or virtual assistants for e-commerce or other fields, using natural language processing and machine learning algorithms to provide personalized customer support and enhance the customer experience.
+Chatbots and Virtual Assistants: Develop and implement chatbots and virtual assistants using large language models, using natural language processing and machine learning algorithms to provide personalized customer support and enhance the user experience.
 
 ### Personalization and Recommender Systems
 
@@ -50,6 +50,8 @@ Machine Learning Interpretability: Develop new approaches for explaining the out
 Time Series Analysis: Investigate new techniques for analyzing time series data, with applications in fields such as E-commerce, finance, and marketing.
 
 ## Natural Language Processing
+
+Text Classification and Sentiment Analysis: Develop and implement text classification and sentiment analysis models using large language models, with applications in fields such as social media monitoring, brand reputation management, or customer feedback analysis.
 
 Deep Learning for Natural Language Processing: Investigate the use of deep learning methods such as neural networks and transformers for natural language processing tasks, such as sentiment analysis or machine translation.
 
