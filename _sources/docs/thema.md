@@ -9,18 +9,22 @@ Falls Ihnen keines der aufgeführten Themen zusagt, können Sie mir gerne eine N
 Die Arbeit kann auf Deutsch oder Englisch verfasst werden.
 
 
-## Topics
+- Nutzung Generativer KI für die Erzeugung von Marketinginhalten.
 
-### Chatbots and Virtual Assistants
+- Einbindung generativer KI in die Entscheidungsfindung und Automatisierung in Unternehmen.
 
-Chatbots and Virtual Assistants: Develop and implement chatbots and virtual assistants using large language models, using natural language processing and machine learning algorithms to provide personalized customer support and enhance the user experience.
+- Verwendung generativer KI-Tools zur Unterstützung personalisierter Lernpfade.
 
-### Personalization and Recommender Systems
+- Einsatz generativer KI-Modelle zur Vorhersage von Markttrends und Verbraucherverhalten.
 
-Recommender Systems: Develop new approaches for building personalized recommender systems, with a focus on incorporating user feedback and improving recommendation quality.
+- Einbindung generativer KI bei der Erstellung von Lehrmaterialien und interaktiven Lernumgebungen.
 
-Personalization and Recommendations: Investigate the use of artificial intelligence algorithms for personalized product recommendations, search results, and content, with a focus on increasing customer engagement and conversion rates.
+- Analyse der Einsatzmöglichkeiten generativer KI zur Verbesserung der Kundeninteraktion und Personalisierung.
 
+- Innovationspotenziale generativer KI in Bereichen wie Kunst, Design oder Musik.
+
+
+<!--
 
 ### MLOps & Data Engineering
 
@@ -64,3 +68,4 @@ User Experience and A/B Testing: Investigate the use of artificial intelligence 
 
 Customer Segmentation and Targeting: Develop and implement machine learning models for customer segmentation and targeting, including methods for identifying high-value customers and predicting customer lifetime value.
 
+-->
