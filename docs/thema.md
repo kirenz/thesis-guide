@@ -8,6 +8,7 @@ Falls Ihnen keines der aufgeführten Themen zusagt, können Sie mir gerne eine N
 
 Die Arbeit kann auf Deutsch oder Englisch verfasst werden.
 
+## Generative AI 
 
 - Nutzung Generativer KI für die Erzeugung von Marketinginhalten.
 
@@ -24,9 +25,8 @@ Die Arbeit kann auf Deutsch oder Englisch verfasst werden.
 - Innovationspotenziale generativer KI in Bereichen wie Kunst, Design oder Musik.
 
 
-<!--
 
-### MLOps & Data Engineering
+### MLOps & Data Engineering 
 
 Continuous Integration and Continuous Deployment (CI/CD) for Machine Learning: Develop and implement an end-to-end CI/CD pipeline for machine learning models, including automated testing, deployment, and monitoring.
 
@@ -36,7 +36,6 @@ Model Monitoring and Performance Evaluation: Develop and implement a system for 
 
 Automated Machine Learning: Investigate the use of automated machine learning (AutoML) tools and techniques for optimizing machine learning workflows, including hyperparameter tuning, feature selection, and model selection.
 
-Model Serving and Scalability: Develop and implement a system for serving machine learning models at scale, including load balancing, caching, and failover mechanisms.
 
 Collaboration and Knowledge Sharing in MLOps: Develop and implement a system for facilitating collaboration and knowledge sharing among teams working on machine learning projects, including version control, code review, and documentation.
 
@@ -67,5 +66,3 @@ User Experience and A/B Testing: Investigate the use of artificial intelligence 
 
 
 Customer Segmentation and Targeting: Develop and implement machine learning models for customer segmentation and targeting, including methods for identifying high-value customers and predicting customer lifetime value.
-
--->
