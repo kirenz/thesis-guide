@@ -348,7 +348,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
 </div></div>
       
     </div>
@@ -364,6 +366,21 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#generative-ai">Generative AI</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#mlops-data-engineering">MLOps &amp; Data Engineering</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#explainable-ai">Explainable AI</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#time-series-analysis">Time Series Analysis</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#natural-language-processing">Natural Language Processing</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#user-experience-and-customer-analytics">User Experience and Customer Analytics</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -379,6 +396,8 @@ document.write(`
 <p>Wenn Sie sich für einen der Themenbereiche entscheiden, senden Sie mir bitte eine E-Mail mit dem gewünschten Thema sowie Ihren ersten Überlegungen zu möglichen Forschungsfragen.</p>
 <p>Falls Ihnen keines der aufgeführten Themen zusagt, können Sie mir gerne eine Nachricht mit Themenvorschlägen zukommen lassen.</p>
 <p>Die Arbeit kann auf Deutsch oder Englisch verfasst werden.</p>
+<section id="generative-ai">
+<h2>Generative AI<a class="headerlink" href="#generative-ai" title="Permalink to this heading">#</a></h2>
 <ul class="simple">
 <li><p>Nutzung Generativer KI für die Erzeugung von Marketinginhalten.</p></li>
 <li><p>Einbindung generativer KI in die Entscheidungsfindung und Automatisierung in Unternehmen.</p></li>
@@ -388,51 +407,36 @@ document.write(`
 <li><p>Analyse der Einsatzmöglichkeiten generativer KI zur Verbesserung der Kundeninteraktion und Personalisierung.</p></li>
 <li><p>Innovationspotenziale generativer KI in Bereichen wie Kunst, Design oder Musik.</p></li>
 </ul>
-<!--
-
-### MLOps & Data Engineering
-
-Continuous Integration and Continuous Deployment (CI/CD) for Machine Learning: Develop and implement an end-to-end CI/CD pipeline for machine learning models, including automated testing, deployment, and monitoring.
-
-Model Versioning and Governance: Develop and implement a system for tracking and managing the versioning of machine learning models, including metadata such as training data, hyperparameters, and evaluation metrics.
-
-Model Monitoring and Performance Evaluation: Develop and implement a system for monitoring the performance of machine learning models in production, including real-time metrics, alerts, and feedback loops for continuous improvement.
-
-Automated Machine Learning: Investigate the use of automated machine learning (AutoML) tools and techniques for optimizing machine learning workflows, including hyperparameter tuning, feature selection, and model selection.
-
-Model Serving and Scalability: Develop and implement a system for serving machine learning models at scale, including load balancing, caching, and failover mechanisms.
-
-Collaboration and Knowledge Sharing in MLOps: Develop and implement a system for facilitating collaboration and knowledge sharing among teams working on machine learning projects, including version control, code review, and documentation.
-
-Data Integration and Warehousing: Investigate the design and implementation of data integration and warehousing systems for large-scale data analysis, with a focus on scalability, performance, and data quality.
-
-
-### Explainable AI
-
-Machine Learning Interpretability: Develop new approaches for explaining the output of machine learning models to increase their interpretability and transparency.
-
-
-
-## Time Series Analysis
-
-Time Series Analysis: Investigate new techniques for analyzing time series data, with applications in fields such as E-commerce, finance, and marketing.
-
-## Natural Language Processing
-
-Text Classification and Sentiment Analysis: Develop and implement text classification and sentiment analysis models using large language models, with applications in fields such as social media monitoring, brand reputation management, or customer feedback analysis.
-
-Deep Learning for Natural Language Processing: Investigate the use of deep learning methods such as neural networks and transformers for natural language processing tasks, such as sentiment analysis or machine translation.
-
-Sentiment Analysis and Customer Feedback: Develop and implement machine learning models for sentiment analysis and customer feedback analysis in e-commerce, including methods for analyzing customer reviews, social media posts, and customer support interactions.
-
-## User Experience and Customer Analytics
-
-User Experience and A/B Testing: Investigate the use of artificial intelligence algorithms for optimizing user experience and A/B testing in e-commerce, including methods for website optimization, user behavior analysis, and conversion rate optimization.
-
-
-Customer Segmentation and Targeting: Develop and implement machine learning models for customer segmentation and targeting, including methods for identifying high-value customers and predicting customer lifetime value.
-
---></section>
+<section id="mlops-data-engineering">
+<h3>MLOps &amp; Data Engineering<a class="headerlink" href="#mlops-data-engineering" title="Permalink to this heading">#</a></h3>
+<p>Continuous Integration and Continuous Deployment (CI/CD) for Machine Learning: Develop and implement an end-to-end CI/CD pipeline for machine learning models, including automated testing, deployment, and monitoring.</p>
+<p>Model Versioning and Governance: Develop and implement a system for tracking and managing the versioning of machine learning models, including metadata such as training data, hyperparameters, and evaluation metrics.</p>
+<p>Model Monitoring and Performance Evaluation: Develop and implement a system for monitoring the performance of machine learning models in production, including real-time metrics, alerts, and feedback loops for continuous improvement.</p>
+<p>Automated Machine Learning: Investigate the use of automated machine learning (AutoML) tools and techniques for optimizing machine learning workflows, including hyperparameter tuning, feature selection, and model selection.</p>
+<p>Collaboration and Knowledge Sharing in MLOps: Develop and implement a system for facilitating collaboration and knowledge sharing among teams working on machine learning projects, including version control, code review, and documentation.</p>
+<p>Data Integration and Warehousing: Investigate the design and implementation of data integration and warehousing systems for large-scale data analysis, with a focus on scalability, performance, and data quality.</p>
+</section>
+<section id="explainable-ai">
+<h3>Explainable AI<a class="headerlink" href="#explainable-ai" title="Permalink to this heading">#</a></h3>
+<p>Machine Learning Interpretability: Develop new approaches for explaining the output of machine learning models to increase their interpretability and transparency.</p>
+</section>
+</section>
+<section id="time-series-analysis">
+<h2>Time Series Analysis<a class="headerlink" href="#time-series-analysis" title="Permalink to this heading">#</a></h2>
+<p>Time Series Analysis: Investigate new techniques for analyzing time series data, with applications in fields such as E-commerce, finance, and marketing.</p>
+</section>
+<section id="natural-language-processing">
+<h2>Natural Language Processing<a class="headerlink" href="#natural-language-processing" title="Permalink to this heading">#</a></h2>
+<p>Text Classification and Sentiment Analysis: Develop and implement text classification and sentiment analysis models using large language models, with applications in fields such as social media monitoring, brand reputation management, or customer feedback analysis.</p>
+<p>Deep Learning for Natural Language Processing: Investigate the use of deep learning methods such as neural networks and transformers for natural language processing tasks, such as sentiment analysis or machine translation.</p>
+<p>Sentiment Analysis and Customer Feedback: Develop and implement machine learning models for sentiment analysis and customer feedback analysis in e-commerce, including methods for analyzing customer reviews, social media posts, and customer support interactions.</p>
+</section>
+<section id="user-experience-and-customer-analytics">
+<h2>User Experience and Customer Analytics<a class="headerlink" href="#user-experience-and-customer-analytics" title="Permalink to this heading">#</a></h2>
+<p>User Experience and A/B Testing: Investigate the use of artificial intelligence algorithms for optimizing user experience and A/B testing in e-commerce, including methods for website optimization, user behavior analysis, and conversion rate optimization.</p>
+<p>Customer Segmentation and Targeting: Develop and implement machine learning models for customer segmentation and targeting, including methods for identifying high-value customers and predicting customer lifetime value.</p>
+</section>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -492,6 +496,27 @@ Customer Segmentation and Targeting: Develop and implement machine learning mode
             </div>
             
             
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#generative-ai">Generative AI</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#mlops-data-engineering">MLOps &amp; Data Engineering</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#explainable-ai">Explainable AI</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#time-series-analysis">Time Series Analysis</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#natural-language-processing">Natural Language Processing</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#user-experience-and-customer-analytics">User Experience and Customer Analytics</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>
