@@ -8,61 +8,30 @@ Falls Ihnen keines der aufgeführten Themen zusagt, können Sie mir gerne eine N
 
 Die Arbeit kann auf Deutsch oder Englisch verfasst werden.
 
-## Generative AI 
+## Themenvorschläge
 
-- Nutzung Generativer KI für die Erzeugung von Marketinginhalten.
+- Entwicklung und Analyse von KI-Agenten zur autonomen Informationsbeschaffung und -verarbeitung im Marketing.
 
-- Einbindung generativer KI in die Entscheidungsfindung und Automatisierung in Unternehmen.
+- Vergleich von generativen KI-Agenten im Hinblick auf Leistung, Skalierbarkeit und Anwendungsszenarien in der Marketingautomatisierung.
 
-- Verwendung generativer KI-Tools zur Unterstützung personalisierter Lernpfade.
+- Nutzung interaktiver KI-Agenten im Kundenbeziehungsmanagement. 
 
-- Einsatz generativer KI-Modelle zur Vorhersage von Markttrends und Verbraucherverhalten.
+- Einsatz multimodaler KI-Agenten (Text, Bild, Sprache) zur Gestaltung immersiver Marken- und Medienerlebnisse.
 
-- Einbindung generativer KI bei der Erstellung von Lehrmaterialien und interaktiven Lernumgebungen.
+- Generative KI zur Simulation menschlichen Verhaltens in Trainings- und Bildungsszenarien (z. B. Rollenspiele mit Avataren) im Bereich Medien, Marketing oder Verkauf.
 
-- Analyse der Einsatzmöglichkeiten generativer KI zur Verbesserung der Kundeninteraktion und Personalisierung.
+- Entwicklung von KI-gestützten Chatbots zur Unterstützung von Marketing- und Vertriebsprozessen.
 
-- Innovationspotenziale generativer KI in Bereichen wie Kunst, Design oder Musik.
+- Analyse generativer KI zur Optimierung datengetriebener Marketingstrategien und kanalübergreifender Kommunikation.
 
+- Entwicklung von KI-basierten Content-Engines zur automatisierten Erstellung und Personalisierung von Social-Media- und Kampagneninhalten.
 
+- Integration generativer KI in Business Intelligence und Marketing Analytics zur Echtzeit-Analyse von Kundenverhalten und Trends.
 
-### MLOps & Data Engineering 
+- Nutzung generativer KI in der Medienproduktion: Automatisierte Video-, Audio- und Grafikgenerierung für Marketing- und Unternehmenskommunikation.
 
-Continuous Integration and Continuous Deployment (CI/CD) for Machine Learning: Develop and implement an end-to-end CI/CD pipeline for machine learning models, including automated testing, deployment, and monitoring.
+- Potenziale und Grenzen generativer KI für Customer-Journey-Analysen und Touchpoint-Optimierung im digitalen Marketing.
 
-Model Versioning and Governance: Develop and implement a system for tracking and managing the versioning of machine learning models, including metadata such as training data, hyperparameters, and evaluation metrics.
-
-Model Monitoring and Performance Evaluation: Develop and implement a system for monitoring the performance of machine learning models in production, including real-time metrics, alerts, and feedback loops for continuous improvement.
-
-Automated Machine Learning: Investigate the use of automated machine learning (AutoML) tools and techniques for optimizing machine learning workflows, including hyperparameter tuning, feature selection, and model selection.
+- Gestaltung KI-gestützter Management-Dashboards zur datenbasierten Entscheidungsunterstützung im Marketing und Vertrieb.
 
 
-Collaboration and Knowledge Sharing in MLOps: Develop and implement a system for facilitating collaboration and knowledge sharing among teams working on machine learning projects, including version control, code review, and documentation.
-
-Data Integration and Warehousing: Investigate the design and implementation of data integration and warehousing systems for large-scale data analysis, with a focus on scalability, performance, and data quality.
-
-
-### Explainable AI
-
-Machine Learning Interpretability: Develop new approaches for explaining the output of machine learning models to increase their interpretability and transparency.
-
-
-
-## Time Series Analysis
-
-Time Series Analysis: Investigate new techniques for analyzing time series data, with applications in fields such as E-commerce, finance, and marketing.
-
-## Natural Language Processing
-
-Text Classification and Sentiment Analysis: Develop and implement text classification and sentiment analysis models using large language models, with applications in fields such as social media monitoring, brand reputation management, or customer feedback analysis.
-
-Deep Learning for Natural Language Processing: Investigate the use of deep learning methods such as neural networks and transformers for natural language processing tasks, such as sentiment analysis or machine translation.
-
-Sentiment Analysis and Customer Feedback: Develop and implement machine learning models for sentiment analysis and customer feedback analysis in e-commerce, including methods for analyzing customer reviews, social media posts, and customer support interactions.
-
-## User Experience and Customer Analytics
-
-User Experience and A/B Testing: Investigate the use of artificial intelligence algorithms for optimizing user experience and A/B testing in e-commerce, including methods for website optimization, user behavior analysis, and conversion rate optimization.
-
-
-Customer Segmentation and Targeting: Develop and implement machine learning models for customer segmentation and targeting, including methods for identifying high-value customers and predicting customer lifetime value.
