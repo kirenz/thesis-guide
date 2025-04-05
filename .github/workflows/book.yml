@@ -19,15 +19,10 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    # Install dependencies
-    # - name: Set up Python 3.11
-    #   uses: actions/setup-python@v1
-    #   with:
-    #     python-version: 3.11
-
-    # - name: Install dependencies
-    #   run: |
-    #     pip install -r requirements.txt
+    # Install Jupyter Book
+    - name: Install Jupyter Book
+      run: |
+        pip install jupyter-book
 
     # Build the book
     - name: Build the book
