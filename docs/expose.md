@@ -1,6 +1,6 @@
 # Forschungsvorhaben
 
-Bitte erstellen Sie zunächst eine Übersicht Ihres Forschungsvorhabens. Nutzen Sie dafür die hier bereitgestellte Vorlage und fügen Sie Ihre Antworten direkt unter die Fragen ein. Im Anschluss daran können Sie das Dokument freigeben und mir per E-Mail den Link dazu zukommen lassen:
+Bitte erstellen Sie zunächst eine Übersicht Ihres Forschungsvorhabens. Nutzen Sie dafür die hier bereitgestellte Vorlage und fügen Sie Ihre Antworten direkt unter die Fragen ein. Im Anschluss daran können Sie das Dokument in [Moodle](https://moodle.hdm-stuttgart.de/mod/assign/view.php?id=368511) als PDF-Dokument hochladen:
 
 ```{admonition} Forschungsvorhaben
 :class: tip
