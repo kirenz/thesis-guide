@@ -180,49 +180,49 @@ pre {
 // Callouts: neutrale Panels mit Hairline und schmalem Farbsteg
 // ---------------------------------------------------------------------------
 
-div.callout.callout-style-default {
-  border: 1px solid $hairline;
-  border-left-width: 3px;
-  border-radius: 10px;
-  background-color: #ffffff;
+div.callout.callout-style-default,
+div.callout-note.callout,
+div.callout-tip.callout,
+div.callout-important.callout,
+div.callout-warning.callout,
+div.callout-caution.callout {
+  border: none;
+  border-left: none;
+  border-radius: 12px;
+  background-color: $surface;
   margin: 1.5rem 0;
+}
 
+div.callout.callout-style-default {
   > .callout-header {
     background-color: transparent;
     font-weight: 600;
     font-size: 0.95rem;
     color: $ink;
-    padding-top: 0.85rem;
+    padding-top: 1rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
   }
 
   > .callout-body-container {
     color: $ink-soft;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    padding-bottom: 0.35rem;
+  }
+
+  // Icons monochrom
+  .callout-icon::before {
+    filter: grayscale(1) contrast(0.9);
+    opacity: 0.6;
   }
 }
 
-div.callout-note.callout {
-  border-left-color: #c3c3d0;
-}
-
-div.callout-tip.callout {
-  border-left-color: $accent;
-}
-
-div.callout-important.callout {
-  border-left-color: #b91c1c;
-}
-
-div.callout-warning.callout {
-  border-left-color: #b45309;
-}
-
-div.callout-caution.callout {
-  border-left-color: #b45309;
-}
-
-// Icons dezent einfärben statt Bootstrap-Bunt
-div.callout.callout-style-default .callout-icon::before {
-  opacity: 0.75;
+// Code-Elemente in Callouts auf Weiß absetzen, damit sie auf der grauen
+// Fläche sichtbar bleiben
+div.callout code {
+  background-color: #ffffff;
+  border: 1px solid $hairline;
 }
 
 // ---------------------------------------------------------------------------
