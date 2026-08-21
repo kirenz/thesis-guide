@@ -2,10 +2,43 @@
 title: "Literaturrecherche"
 ---
 
-Hinweise zur systematischen Suche nach wissenschaftlichen Quellen:
+Die Literaturrecherche legt das Fundament Ihrer Arbeit: Sie zeigt den aktuellen Erkenntnisstand, begründet die Relevanz Ihrer Fragestellung und liefert die theoretische Basis, auf der Ihr Artefakt bzw. Ihre Hypothesen aufbauen. Bereits im [Exposé](expose.qmd) nennen Sie drei zentrale Quellen und die verwendeten Such-Keywords.
 
-```{=html}
-<div class="ratio ratio-16x9 mb-3">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxzebB_8RLUaL6ej_zWIZEEd-rNuoxt3Cdg8DClEYFIBUTK61eazwKVmtcuOei7kCALY0Co1BBaWgZ/embed?start=false&loop=false&delayms=3000" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</div>
-```
+::: {.callout-tip title="Früh beginnen"}
+Starten Sie die Recherche vor der Anmeldung, nicht erst während der Bearbeitungszeit. Ob es zu Ihrer Fragestellung ausreichend wissenschaftliche Literatur gibt, entscheidet mit darüber, ob das Thema tragfähig ist.
+:::
+
+## Wo Sie suchen sollten
+
+- [Google Scholar](https://scholar.google.com/): guter Startpunkt für die Breitensuche; über „Zitiert von" finden Sie neuere Arbeiten, die auf einer Quelle aufbauen.
+- [HdM-Bibliothek](https://www.hdm-stuttgart.de/bibliothek): Zugang zu lizenzierten Datenbanken, E-Books und Zeitschriften; viele Volltexte, die hinter Bezahlschranken liegen, sind über das Hochschulnetz oder VPN frei zugänglich.
+- Fachdatenbanken je nach Thema: [ACM Digital Library](https://dl.acm.org/) und [IEEE Xplore](https://ieeexplore.ieee.org/) für Informatik und Machine Learning, [AIS eLibrary](https://aisel.aisnet.org/) für Wirtschaftsinformatik und Design Science Research, [SpringerLink](https://link.springer.com/) und [ScienceDirect](https://www.sciencedirect.com/) für Marketing und Management.
+- [arXiv](https://arxiv.org/): aktuelle Preprints, insbesondere zu KI-Themen. Beachten Sie, dass Preprints kein Peer-Review durchlaufen haben; prüfen Sie, ob inzwischen eine begutachtete Fassung existiert.
+
+## Wie Sie systematisch vorgehen
+
+1. **Keywords festlegen:** Suchen Sie auf Deutsch und Englisch, mit Synonymen und verwandten Begriffen (z. B. „recommender system", „recommendation engine", „personalization"). Dokumentieren Sie Ihre Keywords, sie werden im Exposé abgefragt.
+2. **Suche verfeinern:** Kombinieren Sie Begriffe mit Anführungszeichen für exakte Phrasen („large language model") und grenzen Sie bei Bedarf den Zeitraum ein. Bei schnelllebigen KI-Themen sind Quellen der letzten zwei bis drei Jahre besonders relevant, Grundlagenliteratur darf älter sein.
+3. **Schneeballprinzip:** Arbeiten Sie von zentralen Quellen aus rückwärts (deren Literaturverzeichnis) und vorwärts („Zitiert von" in Google Scholar). So finden Sie die Kernliteratur eines Feldes schneller als über immer neue Suchanfragen.
+4. **Sättigung erkennen:** Wenn neue Suchen immer wieder auf dieselben Autorinnen, Autoren und Arbeiten führen, haben Sie den Kern des Forschungsstandes erfasst.
+
+## Qualität der Quellen bewerten
+
+Nicht jede Quelle trägt eine wissenschaftliche Arbeit. Achten Sie auf:
+
+- **Peer-Review:** Artikel in begutachteten Zeitschriften und Konferenzbänden haben Vorrang vor Blogbeiträgen, Whitepapers und Unternehmensseiten.
+- **Zitationen und Einordnung:** Häufig zitierte Arbeiten markieren zentrale Beiträge eines Feldes. Hohe Zitationszahlen sind aber kein Ersatz für eigenes kritisches Lesen.
+- **Aktualität:** Prüfen Sie, ob es zu älteren Standardwerken neuere Weiterentwicklungen oder Reviews gibt.
+- **Best-Practice-Quellen:** Bei Design-Science-Arbeiten sind neben wissenschaftlicher Literatur auch dokumentierte Best-Practice-Ansätze (z. B. technische Dokumentationen, etablierte Frameworks) zulässig und wichtig. Kennzeichnen Sie sie klar als solche und stützen Sie zentrale Argumente zusätzlich wissenschaftlich ab.
+
+## Literatur verwalten
+
+Nutzen Sie von Beginn an ein Literaturverwaltungsprogramm, z. B. [Zotero](https://www.zotero.org/) (kostenlos, mit Browser-Plugin und Word-Integration). So stellen Sie sicher, dass jede Quelle vollständig erfasst ist und Ihr Literaturverzeichnis konsistent bleibt. Legen Sie den Zitierstil früh fest und verwenden Sie ihn durchgängig.
+
+## KI-Werkzeuge in der Recherche
+
+Werkzeuge wie [Elicit](https://elicit.com/), [Semantic Scholar](https://www.semanticscholar.org/) oder die Recherchefunktionen großer Sprachmodelle können helfen, ein Feld zu erschließen und relevante Arbeiten zu finden. Beachten Sie dabei:
+
+- Prüfen Sie jede von einem KI-Werkzeug vorgeschlagene Quelle im Original. Sprachmodelle erfinden mitunter plausibel klingende, aber nicht existierende Literaturangaben.
+- Zitieren Sie immer die Originalquelle, die Sie selbst gelesen haben, nicht die KI-Zusammenfassung.
+- Kennzeichnen Sie den Einsatz von KI-Werkzeugen transparent gemäß den Vorgaben in [Ablauf und Fristen](ablauf.qmd#abgabe-der-abschlussarbeit).
