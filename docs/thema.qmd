@@ -2,7 +2,7 @@
 title: "Themenvorschläge"
 ---
 
-Unten finden Sie eine Auflistung von Themenvorschlägen, die als mögliche Schwerpunkte für Ihre Abschlussarbeit dienen können. Die Themen wurden bewusst relativ allgemein formuliert, damit Sie die Möglichkeit haben, Ihre individuellen Interessen und Schwerpunkte einzubringen.
+Unten finden Sie eine Auflistung von Themenvorschlägen, die als mögliche Schwerpunkte für Ihre Abschlussarbeit dienen können.
 
 Wenn Sie sich für einen der Themenbereiche entscheiden, senden Sie mir bitte eine E-Mail mit dem gewünschten Thema sowie Ihren ersten Überlegungen zu möglichen Forschungsfragen.
 
@@ -10,28 +10,25 @@ Falls Ihnen keines der aufgeführten Themen zusagt, können Sie mir gerne eine N
 
 Die Arbeit kann auf Deutsch oder Englisch verfasst werden.
 
-## Themenvorschläge
+## Themenvorschläge für Bachelorarbeiten
 
-- Entwicklung und Analyse von KI-Agenten zur autonomen Informationsbeschaffung und -verarbeitung im Marketing.
+Alle Themen setzen die Entwicklung und Evaluation eines konkreten Artefakts voraus (z. B. Prototyp, Benchmark, Bewertungsraster oder Workflow-Bibliothek), reine Literaturarbeiten sind nicht vorgesehen.
 
-- Vergleich von generativen KI-Agenten im Hinblick auf Leistung, Skalierbarkeit und Anwendungsszenarien in der Marketingautomatisierung.
+### Generative KI in Marketing und Vertrieb
 
-- Nutzung interaktiver KI-Agenten im Kundenbeziehungsmanagement.
+- **Agentische Workflow-Automatisierung im Marketing:** Entwicklung und Bewertung von Referenz-Workflows mit n8n und LLMs.
+- **Prompt-Bibliotheken für Marketing und Analytics:** Aufbau, Systematisierung und empirische Evaluation von Prompting-Strategien.
+- **KI-Rollenspiel-Simulationen für Verkaufstrainings:** Konzeption und Evaluation eines LLM-basierten Gesprächspartners für Einwandbehandlung und Verkaufsgespräche.
 
-- Einsatz multimodaler KI-Agenten (Text, Bild, Sprache) zur Gestaltung immersiver Marken- und Medienerlebnisse.
+### KI-Einführung in Unternehmen und Verwaltung
 
-- Generative KI zur Simulation menschlichen Verhaltens in Trainings- und Bildungsszenarien (z. B. Rollenspiele mit Avataren) im Bereich Medien, Marketing oder Verkauf.
+- **Unternehmensinterne Wissensassistenten (RAG) im Mittelstand:** Entwicklung von Evaluationskriterien und Messung der Antwortqualität in der Praxis.
+- **Lokale LLMs vs. Cloud-Modelle für KMU:** Leistung, Kosten und Datenschutz im Vergleich am Beispiel konkreter Marketing-Aufgaben.
+- **Systematische KI-Use-Case-Identifikation in KMU:** Entwicklung eines Discovery-Vorgehens mit Priorisierung nach Aufwand und Nutzen.
+- **Generative KI in der öffentlichen Verwaltung:** Fallstudie zu Akzeptanz, Hürden und Erfolgsfaktoren bei der Einführung.
 
-- Entwicklung von KI-gestützten Chatbots zur Unterstützung von Marketing- und Vertriebsprozessen.
+### KI in Lernen und Weiterbildung
 
-- Analyse generativer KI zur Optimierung datengetriebener Marketingstrategien und kanalübergreifender Kommunikation.
-
-- Entwicklung von KI-basierten Content-Engines zur automatisierten Erstellung und Personalisierung von Social-Media- und Kampagneninhalten.
-
-- Integration generativer KI in Business Intelligence und Marketing Analytics zur Echtzeit-Analyse von Kundenverhalten und Trends.
-
-- Nutzung generativer KI in der Medienproduktion: Automatisierte Video-, Audio- und Grafikgenerierung für Marketing- und Unternehmenskommunikation.
-
-- Potenziale und Grenzen generativer KI für Customer-Journey-Analysen und Touchpoint-Optimierung im digitalen Marketing.
-
-- Gestaltung KI-gestützter Management-Dashboards zur datenbasierten Entscheidungsunterstützung im Marketing und Vertrieb.
+- **Wirksamkeit von KI-gestütztem Microlearning:** Vergleich klassischer Kursformate mit interaktiven, KI-generierten Lerneinheiten.
+- **Qualitätssicherung KI-generierter Lerninhalte:** Einsatz von LLM-as-a-Judge und adversarialen Prüfverfahren in der Content-Produktion.
+- **Bewertung KI-gestützter Studienleistungen:** Entwicklung eines Rasters zur Unterscheidung produktiver und problematischer KI-Nutzung.

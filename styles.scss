@@ -318,6 +318,120 @@ main table {
 }
 
 // ---------------------------------------------------------------------------
+// Fristen-Zeitstrahl auf der Ablauf-Seite
+// ---------------------------------------------------------------------------
+
+.fristen-timeline {
+  display: flex;
+  margin: 2rem 0 2.25rem;
+}
+
+.ft-step {
+  position: relative;
+  flex: 1;
+  padding: 1.4rem 0.6rem 0 0.6rem;
+  text-align: center;
+
+  // Verbindungslinie auf Markerhöhe
+  &::before {
+    content: "";
+    position: absolute;
+    top: 5px;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background-color: #d9d9e3;
+  }
+
+  &:first-child::before {
+    left: 50%;
+  }
+
+  &:last-child::before {
+    right: 50%;
+  }
+}
+
+.ft-marker {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background-color: #ffffff;
+  border: 1.5px solid #9c9cab;
+}
+
+.ft-step-fixed .ft-marker {
+  background-color: $ink;
+  border-color: $ink;
+}
+
+.ft-when {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: $gray;
+  margin-bottom: 0.25rem;
+  white-space: nowrap;
+}
+
+.ft-step-fixed .ft-when {
+  color: $ink;
+}
+
+.ft-what {
+  display: block;
+  font-size: 0.82rem;
+  line-height: 1.4;
+  color: $ink-soft;
+}
+
+// Mobil: vertikaler Zeitstrahl mit linker Leiste
+@media (max-width: 767.98px) {
+  .fristen-timeline {
+    flex-direction: column;
+    gap: 1.1rem;
+  }
+
+  .ft-step {
+    padding: 0 0 0 1.75rem;
+    text-align: left;
+
+    &::before {
+      top: -1.1rem;
+      bottom: 0;
+      left: 5px;
+      right: auto;
+      width: 1px;
+      height: auto;
+    }
+
+    &:first-child::before {
+      top: 6px;
+      left: 5px;
+    }
+
+    &:last-child::before {
+      right: auto;
+      bottom: calc(100% - 6px);
+    }
+  }
+
+  .ft-marker {
+    top: 3px;
+    left: 0;
+    transform: none;
+  }
+
+  .ft-when {
+    white-space: normal;
+  }
+}
+
+// ---------------------------------------------------------------------------
 // Footer
 // ---------------------------------------------------------------------------
 

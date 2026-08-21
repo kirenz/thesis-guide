@@ -4,6 +4,36 @@ title: "Ablauf und Fristen"
 
 Diese Seite beschreibt den Ablauf der Betreuung von Abschlussarbeiten bei mir, vom Themenvorschlag bis zur Bewertung.
 
+```{=html}
+<div class="fristen-timeline" aria-label="Fristen im Überblick">
+  <div class="ft-step">
+    <span class="ft-marker" aria-hidden="true"></span>
+    <span class="ft-when">4 Wochen vorher</span>
+    <span class="ft-what">Exposé per E-Mail an mich</span>
+  </div>
+  <div class="ft-step">
+    <span class="ft-marker" aria-hidden="true"></span>
+    <span class="ft-when">14 Kalendertage vorher</span>
+    <span class="ft-what">Anmeldeformular an mich</span>
+  </div>
+  <div class="ft-step">
+    <span class="ft-marker" aria-hidden="true"></span>
+    <span class="ft-when">7 Werktage vorher</span>
+    <span class="ft-what">Eingang bei der Prüfungsverwaltung</span>
+  </div>
+  <div class="ft-step ft-step-fixed">
+    <span class="ft-marker" aria-hidden="true"></span>
+    <span class="ft-when">Start</span>
+    <span class="ft-what">Bearbeitungsbeginn</span>
+  </div>
+  <div class="ft-step ft-step-fixed">
+    <span class="ft-marker" aria-hidden="true"></span>
+    <span class="ft-when">Abgabetermin</span>
+    <span class="ft-what">Offizielle Abgabe und PDF an mich</span>
+  </div>
+</div>
+```
+
 ::: {.callout-important title="Verbindliche Regelungen"}
 Verbindlich sind die für Sie geltende Studien- und Prüfungsordnung sowie die aktuellen Vorgaben der Prüfungsverwaltung. Die folgenden Hinweise beschreiben ergänzend den Ablauf der Betreuung bei mir.
 
