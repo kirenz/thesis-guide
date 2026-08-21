@@ -154,7 +154,57 @@
     "href": "docs/recherche.html",
     "title": "Literaturrecherche",
     "section": "",
-    "text": "Hinweise zur systematischen Suche nach wissenschaftlichen Quellen:",
+    "text": "Die Literaturrecherche legt das Fundament Ihrer Arbeit: Sie zeigt den aktuellen Erkenntnisstand, begründet die Relevanz Ihrer Fragestellung und liefert die theoretische Basis, auf der Ihr Artefakt bzw. Ihre Hypothesen aufbauen. Bereits im Exposé nennen Sie drei zentrale Quellen und die verwendeten Such-Keywords.",
+    "crumbs": [
+      "Literaturrecherche"
+    ]
+  },
+  {
+    "objectID": "docs/recherche.html#wo-sie-suchen-sollten",
+    "href": "docs/recherche.html#wo-sie-suchen-sollten",
+    "title": "Literaturrecherche",
+    "section": "Wo Sie suchen sollten",
+    "text": "Wo Sie suchen sollten\n\nGoogle Scholar: guter Startpunkt für die Breitensuche; über „Zitiert von” finden Sie neuere Arbeiten, die auf einer Quelle aufbauen.\nHdM-Bibliothek: Zugang zu lizenzierten Datenbanken, E-Books und Zeitschriften; viele Volltexte, die hinter Bezahlschranken liegen, sind über das Hochschulnetz oder VPN frei zugänglich.\nFachdatenbanken je nach Thema: ACM Digital Library und IEEE Xplore für Informatik und Machine Learning, AIS eLibrary für Wirtschaftsinformatik und Design Science Research, SpringerLink und ScienceDirect für Marketing und Management.\narXiv: aktuelle Preprints, insbesondere zu KI-Themen. Beachten Sie, dass Preprints kein Peer-Review durchlaufen haben; prüfen Sie, ob inzwischen eine begutachtete Fassung existiert.",
+    "crumbs": [
+      "Literaturrecherche"
+    ]
+  },
+  {
+    "objectID": "docs/recherche.html#wie-sie-systematisch-vorgehen",
+    "href": "docs/recherche.html#wie-sie-systematisch-vorgehen",
+    "title": "Literaturrecherche",
+    "section": "Wie Sie systematisch vorgehen",
+    "text": "Wie Sie systematisch vorgehen\n\nKeywords festlegen: Suchen Sie auf Deutsch und Englisch, mit Synonymen und verwandten Begriffen (z. B. „recommender system”, „recommendation engine”, „personalization”). Dokumentieren Sie Ihre Keywords, sie werden im Exposé abgefragt.\nSuche verfeinern: Kombinieren Sie Begriffe mit Anführungszeichen für exakte Phrasen („large language model”) und grenzen Sie bei Bedarf den Zeitraum ein. Bei schnelllebigen KI-Themen sind Quellen der letzten zwei bis drei Jahre besonders relevant, Grundlagenliteratur darf älter sein.\nSchneeballprinzip: Arbeiten Sie von zentralen Quellen aus rückwärts (deren Literaturverzeichnis) und vorwärts („Zitiert von” in Google Scholar). So finden Sie die Kernliteratur eines Feldes schneller als über immer neue Suchanfragen.\nSättigung erkennen: Wenn neue Suchen immer wieder auf dieselben Autorinnen, Autoren und Arbeiten führen, haben Sie den Kern des Forschungsstandes erfasst.",
+    "crumbs": [
+      "Literaturrecherche"
+    ]
+  },
+  {
+    "objectID": "docs/recherche.html#qualität-der-quellen-bewerten",
+    "href": "docs/recherche.html#qualität-der-quellen-bewerten",
+    "title": "Literaturrecherche",
+    "section": "Qualität der Quellen bewerten",
+    "text": "Qualität der Quellen bewerten\nNicht jede Quelle trägt eine wissenschaftliche Arbeit. Achten Sie auf:\n\nPeer-Review: Artikel in begutachteten Zeitschriften und Konferenzbänden haben Vorrang vor Blogbeiträgen, Whitepapers und Unternehmensseiten.\nZitationen und Einordnung: Häufig zitierte Arbeiten markieren zentrale Beiträge eines Feldes. Hohe Zitationszahlen sind aber kein Ersatz für eigenes kritisches Lesen.\nAktualität: Prüfen Sie, ob es zu älteren Standardwerken neuere Weiterentwicklungen oder Reviews gibt.\nBest-Practice-Quellen: Bei Design-Science-Arbeiten sind neben wissenschaftlicher Literatur auch dokumentierte Best-Practice-Ansätze (z. B. technische Dokumentationen, etablierte Frameworks) zulässig und wichtig. Kennzeichnen Sie sie klar als solche und stützen Sie zentrale Argumente zusätzlich wissenschaftlich ab.",
+    "crumbs": [
+      "Literaturrecherche"
+    ]
+  },
+  {
+    "objectID": "docs/recherche.html#literatur-verwalten",
+    "href": "docs/recherche.html#literatur-verwalten",
+    "title": "Literaturrecherche",
+    "section": "Literatur verwalten",
+    "text": "Literatur verwalten\nNutzen Sie von Beginn an ein Literaturverwaltungsprogramm, z. B. Zotero (kostenlos, mit Browser-Plugin und Word-Integration). So stellen Sie sicher, dass jede Quelle vollständig erfasst ist und Ihr Literaturverzeichnis konsistent bleibt. Legen Sie den Zitierstil früh fest und verwenden Sie ihn durchgängig.",
+    "crumbs": [
+      "Literaturrecherche"
+    ]
+  },
+  {
+    "objectID": "docs/recherche.html#ki-werkzeuge-in-der-recherche",
+    "href": "docs/recherche.html#ki-werkzeuge-in-der-recherche",
+    "title": "Literaturrecherche",
+    "section": "KI-Werkzeuge in der Recherche",
+    "text": "KI-Werkzeuge in der Recherche\nWerkzeuge wie Elicit, Semantic Scholar oder die Recherchefunktionen großer Sprachmodelle können helfen, ein Feld zu erschließen und relevante Arbeiten zu finden. Beachten Sie dabei:\n\nPrüfen Sie jede von einem KI-Werkzeug vorgeschlagene Quelle im Original. Sprachmodelle erfinden mitunter plausibel klingende, aber nicht existierende Literaturangaben.\nZitieren Sie immer die Originalquelle, die Sie selbst gelesen haben, nicht die KI-Zusammenfassung.\nKennzeichnen Sie den Einsatz von KI-Werkzeugen transparent gemäß den Vorgaben in Ablauf und Fristen.",
     "crumbs": [
       "Literaturrecherche"
     ]
