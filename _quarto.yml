@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: _site
+
+lang: de
+
+website:
+  title: "Thesis Guide"
+  site-url: https://kirenz.github.io/thesis-guide/
+  repo-url: https://github.com/kirenz/thesis-guide
+  favicon: logo.png
+  page-navigation: true
+  search:
+    location: sidebar
+    type: overlay
+  sidebar:
+    style: docked
+    logo: logo.png
+    tools:
+      - icon: github
+        href: https://github.com/kirenz/thesis-guide
+    contents:
+      - text: Start
+        href: index.qmd
+      - docs/ablauf.qmd
+      - section: Themenfindung
+        contents:
+          - docs/thema.qmd
+          - docs/arbeiten.qmd
+      - docs/expose.qmd
+      - section: Forschungsmethoden
+        contents:
+          - docs/arten.qmd
+          - docs/design-science-research.qmd
+          - docs/quantitativ.qmd
+      - docs/recherche.qmd
+      - docs/kolloquium.qmd
+  page-footer:
+    left: "Jan Kirenz, Hochschule der Medien Stuttgart"
+    right: "Erstellt mit [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: true
+    toc-title: "Auf dieser Seite"
+    link-external-newwindow: true
+    smooth-scroll: true

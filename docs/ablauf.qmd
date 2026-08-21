@@ -1,0 +1,120 @@
+---
+title: "Ablauf und Fristen"
+---
+
+Diese Seite beschreibt den organisatorischen Ablauf der Betreuung bei mir. Verbindlich bleiben die für Sie geltende Studien- und Prüfungsordnung und die aktuellen Vorgaben der [Prüfungsverwaltung](https://hdm-stuttgart.de/im-studium/pruefungsverwaltung/).
+
+::: {.callout-tip title="Dokumente per E-Mail einreichen"}
+Exposé, Anmeldeformular und Abschlussarbeit werden nicht in Moodle hochgeladen. Senden Sie die Dokumente per E-Mail an [kirenz@hdm-stuttgart.de](mailto:kirenz@hdm-stuttgart.de).
+:::
+
+## Fristen auf einen Blick
+
+Ausgangspunkt ist immer Ihr gewünschter **Bearbeitungsbeginn**.
+
+::: {.table-responsive-wrap}
+
+| Schritt und Übermittlung | Frist |
+| --- | --- |
+| Exposé per E-Mail an mich | spätestens 4 Wochen vor dem gewünschten Bearbeitungsbeginn |
+| Vollständiges Anmeldeformular per E-Mail an mich | spätestens 14 Kalendertage vor dem gewünschten Bearbeitungsbeginn |
+| Offizielle Anmeldung bei der Prüfungsverwaltung | Eingang spätestens 7 Werktage vor dem gewünschten Bearbeitungsbeginn |
+| Abschlussarbeit offiziell bei der Prüfungsverwaltung und zusätzlich per E-Mail an mich | zum offiziell festgelegten Abgabetermin |
+
+:::
+
+Wochenenden, Feiertage und Bearbeitungszeiten der Prüfungsverwaltung müssen berücksichtigt werden. Bitte planen Sie einen zusätzlichen zeitlichen Puffer ein. Kann die Anmeldefrist nicht eingehalten werden, muss der gewünschte Bearbeitungsbeginn entsprechend nach hinten verschoben werden.
+
+## 1. Themenvorschlag
+
+Senden Sie mir zunächst eine kurze Beschreibung Ihrer Themenidee per E-Mail. Anregungen finden Sie unter [Themenvorschläge für Abschlussarbeiten](thema.qmd).
+
+Bitte geben Sie folgende Informationen an:
+
+- Vor- und Nachname
+- Matrikelnummer
+- Studiengang und vorgesehener Abschluss
+- kurze Beschreibung der Themenidee
+- gegebenenfalls beteiligtes Unternehmen
+
+## 2. Erstgespräch
+
+Nachdem Sie eine positive Rückmeldung von mir erhalten haben, können Sie [einen Besprechungstermin vereinbaren](https://calendar.app.google/u9ENrsnhLwjqksiJ6).
+
+## 3. Exposé
+
+Erstellen Sie anschließend ein Exposé. Hinweise, Leitfragen und eine Vorlage finden Sie unter [Forschungsvorhaben](expose.qmd).
+
+Senden Sie das Exposé spätestens **vier Wochen vor dem gewünschten Bearbeitungsbeginn** als PDF per E-Mail. Planen Sie ausreichend Zeit für Rückmeldung und Überarbeitung ein. Die Anmeldung erfolgt erst, nachdem das Exposé abgestimmt wurde.
+
+::: {.callout-note collapse="true" title="E-Mail-Betreff und Dateiname"}
+**Betreff:** `Exposé – Vorname Nachname – Matrikelnummer`
+
+**Dateiname:** `Nachname_Vorname_Matrikelnummer_Expose.pdf`
+
+Bitte verwenden Sie möglichst Ihre HdM-E-Mail-Adresse.
+:::
+
+## 4. Anmeldung der Abschlussarbeit
+
+Nach Abstimmung des Exposés füllen Sie das aktuelle Formular der Prüfungsverwaltung vollständig aus und senden es mir per E-Mail zur Prüfung und Unterschrift. Das aktuelle Formular finden Sie bei den [Informationen und Anträgen der Prüfungsverwaltung](https://www.hdm-stuttgart.de/intranet/studierende/pruefungsverwaltung/informationen_antraege).
+
+Bitte beachten Sie:
+
+- Für die Abschlussarbeit werden zwei prüfende Personen benötigt.
+- Mindestens eine prüfende Person muss Professorin oder Professor der HdM sein.
+- Thema, Prüfende und Bearbeitungsbeginn müssen offiziell genehmigt werden.
+- Bei einer Zusammenarbeit mit einem Unternehmen müssen Vertraulichkeitsregelungen und ein möglicher Sperrvermerk vor der Anmeldung geklärt werden.
+- Eine zusätzliche Registrierung über Google Forms ist nicht erforderlich.
+
+::: {.callout-important title="Wann muss ich anmelden?"}
+Es gibt keinen allgemeinen Anmeldetermin. Entscheidend ist Ihr gewünschter **Bearbeitungsbeginn**.
+
+Das vollständig ausgefüllte und unterschriebene Formular muss spätestens **7 Werktage vor dem gewünschten Bearbeitungsbeginn** bei der Prüfungsverwaltung eingegangen sein. Senden Sie mir das vollständige Formular spätestens **14 Kalendertage vor dem gewünschten Bearbeitungsbeginn**, damit ausreichend Zeit für Prüfung und Unterschriften bleibt.
+:::
+
+::: {.callout-note collapse="true" title="E-Mail-Betreff"}
+**Betreff:** `Anmeldung Abschlussarbeit – Vorname Nachname – Matrikelnummer`
+:::
+
+## 5. Betreuung während der Bearbeitungszeit
+
+Bei konkreten inhaltlichen oder methodischen Fragen können Sie [einen Besprechungstermin buchen](https://calendar.app.google/u9ENrsnhLwjqksiJ6).
+
+Bitte senden Sie mir vor dem Termin kurz Ihre Fragen und gegebenenfalls die relevanten Unterlagen. Termine sollten nur gebucht werden, wenn konkrete Fragen oder Entscheidungen anstehen.
+
+## 6. Abgabe der Abschlussarbeit {#abgabe-der-abschlussarbeit}
+
+Die fristgerechte offizielle Abgabe erfolgt nach den aktuellen Vorgaben der Prüfungsverwaltung.
+
+::: {.callout-warning title="Offizielle Abgabe"}
+Die Übermittlung der Arbeit an mich ersetzt **nicht** die offizielle Abgabe bei der Prüfungsverwaltung. Maßgeblich für die Einhaltung der Abgabefrist ist ausschließlich der dort dokumentierte Eingang.
+:::
+
+Senden Sie mir zusätzlich die vollständige und mit der offiziellen Abgabe identische PDF-Datei per E-Mail. Falls die Datei für einen E-Mail-Anhang zu groß ist, stimmen Sie die Übermittlung bitte vorab mit mir ab.
+
+::: {.callout-note collapse="true" title="E-Mail-Betreff und Dateiname"}
+**Betreff:** `Abgabe Abschlussarbeit – Vorname Nachname – Matrikelnummer`
+
+**Dateiname:** `Nachname_Vorname_Matrikelnummer_Abschlussarbeit.pdf`
+:::
+
+Für den zugehörigen Code senden Sie mir eine Einladung zu Ihrem GitHub-Repository. Mein GitHub-Benutzername lautet **kirenz**.
+
+Achten Sie insbesondere auf:
+
+- die vorgeschriebene und unterschriebene ehrenwörtliche Erklärung,
+- die transparente Kennzeichnung verwendeter KI-Werkzeuge,
+- eine deutschsprachige Kurzfassung,
+- ein inhaltlich entsprechendes englischsprachiges Abstract und
+- die aktuellen formalen Vorgaben der Prüfungsverwaltung.
+
+## 7. Kolloquium
+
+Sofern für Ihre Abschlussarbeit ein Kolloquium vorgesehen ist, vereinbaren wir den Termin nach der Abgabe per E-Mail. Im Kolloquium stellen Sie Ihre Arbeit in der Regel etwa 20 Minuten lang vor. Anschließend findet ein Fachgespräch statt.
+
+Bitte beachten Sie die [Hinweise zum Kolloquium](kolloquium.qmd).
+
+## 8. Bewertung und Bekanntgabe der Note
+
+Die Abschlussarbeit wird von beiden prüfenden Personen bewertet. Das Bewertungsverfahren dauert in der Regel bis zu vier Wochen. Die Note wird nach Abschluss der Bewertung über [SELMA](https://www.hdm-stuttgart.de/studierende/stundenplan/sb_funktionen) bekannt gegeben.

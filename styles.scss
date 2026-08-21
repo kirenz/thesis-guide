@@ -1,0 +1,43 @@
+/*-- scss:defaults --*/
+
+$primary: #1f3864;
+$link-color: #1f5aa6;
+
+/*-- scss:rules --*/
+
+// Einstiegskarten auf der Startseite
+.start-card {
+  display: block;
+  height: 100%;
+  padding: 1.25rem 1.4rem;
+  border: 1px solid rgba(31, 56, 100, 0.18);
+  border-radius: 0.6rem;
+  background-color: rgba(31, 56, 100, 0.03);
+  text-decoration: none;
+  transition: box-shadow 0.15s ease, transform 0.15s ease;
+
+  &:hover {
+    box-shadow: 0 0.25rem 0.75rem rgba(31, 56, 100, 0.15);
+    transform: translateY(-2px);
+    text-decoration: none;
+  }
+
+  .start-card-title {
+    display: block;
+    font-weight: 600;
+    color: $primary;
+    margin-bottom: 0.35rem;
+  }
+
+  .start-card-text {
+    display: block;
+    color: #444;
+    font-size: 0.925rem;
+  }
+}
+
+// Tabellen auf schmalen Bildschirmen horizontal scrollbar
+.table-responsive-wrap table {
+  display: block;
+  overflow-x: auto;
+}

@@ -1,0 +1,38 @@
+---
+title: "Thesis Guide"
+---
+
+Dieser Guide unterstützt Sie bei der Planung und Durchführung Ihrer Abschlussarbeit, von der Themenfindung bis zum Kolloquium.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+[[Ich suche ein Thema]{.start-card-title}[Themenvorschläge und Beispiele abgeschlossener Arbeiten ansehen.]{.start-card-text}](docs/thema.qmd){.start-card}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+[[Ich möchte meine Arbeit anmelden]{.start-card-title}[Exposé erstellen, Fristen prüfen und die Anmeldung vorbereiten.]{.start-card-text}](docs/ablauf.qmd){.start-card}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+[[Ich muss meine Arbeit abgeben]{.start-card-title}[Vorgaben zur Abgabe und Hinweise zum Kolloquium beachten.]{.start-card-text}](docs/ablauf.qmd#abgabe-der-abschlussarbeit){.start-card}
+:::
+
+:::
+
+::: {.callout-tip title="Hier beginnen"}
+Alle organisatorischen Schritte, Fristen und Vorgaben zur Einreichung finden Sie unter [Ablauf und Fristen der Abschlussarbeit](docs/ablauf.qmd).
+:::
+
+## Inhalte des Guides
+
+- [Ablauf und Fristen](docs/ablauf.qmd): Exposé, Anmeldung, Betreuung, Abgabe und Bewertung
+- [Themenfindung](docs/thema.qmd): Hinweise und Themenvorschläge
+- [Forschungsvorhaben](docs/expose.qmd): Vorlage und Leitfragen für das Exposé
+- [Arten wissenschaftlicher Arbeiten](docs/arten.qmd): Auswahl eines geeigneten Forschungsansatzes
+- [Literaturrecherche](docs/recherche.qmd): systematische Suche nach wissenschaftlichen Quellen
+- [Kolloquium](docs/kolloquium.qmd): Hinweise zur Präsentation und zum Fachgespräch
+
+::: {.callout-important title="Verbindliche Regelungen"}
+Maßgeblich sind die für Sie geltende Studien- und Prüfungsordnung sowie die aktuellen Vorgaben der Prüfungsverwaltung. Aktuelle Informationen finden Sie auf den Seiten der [Prüfungsverwaltung](https://hdm-stuttgart.de/im-studium/pruefungsverwaltung/), bei den [Informationen und Anträgen](https://www.hdm-stuttgart.de/intranet/studierende/pruefungsverwaltung/informationen_antraege) und in den [Studien- und Prüfungsordnungen](https://hdm-stuttgart.de/im-studium/studien-und-pruefungsordnungen-spo/).
+:::
