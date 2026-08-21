@@ -25,7 +25,7 @@ website:
       - section: Themenfindung
         contents:
           - docs/thema.qmd
-          - docs/arbeiten.qmd
+   #       - docs/arbeiten.qmd
       - docs/expose.qmd
       - section: Forschungsmethoden
         contents:

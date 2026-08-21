@@ -20,6 +20,22 @@ Dieser Guide unterstützt Sie bei der Planung und Durchführung Ihrer Abschlussa
 
 :::
 
+```{=html}
+<nav class="mini-flow" aria-label="Der Weg zur Abschlussarbeit">
+  <a class="mf-item" href="docs/thema.html">Thema</a>
+  <span class="mf-sep" aria-hidden="true">&#8594;</span>
+  <a class="mf-item" href="docs/expose.html">Exposé</a>
+  <span class="mf-sep" aria-hidden="true">&#8594;</span>
+  <a class="mf-item" href="docs/ablauf.html#anmeldung-der-abschlussarbeit">Anmeldung</a>
+  <span class="mf-sep" aria-hidden="true">&#8594;</span>
+  <a class="mf-item" href="docs/ablauf.html#betreuung-während-der-bearbeitungszeit">Bearbeitung</a>
+  <span class="mf-sep" aria-hidden="true">&#8594;</span>
+  <a class="mf-item" href="docs/ablauf.html#abgabe-der-abschlussarbeit">Abgabe</a>
+  <span class="mf-sep" aria-hidden="true">&#8594;</span>
+  <a class="mf-item" href="docs/kolloquium.html">Kolloquium</a>
+</nav>
+```
+
 ::: {.callout-tip title="Hier beginnen"}
 Alle organisatorischen Schritte, Fristen und Vorgaben zur Einreichung finden Sie unter [Ablauf und Fristen der Abschlussarbeit](docs/ablauf.qmd).
 :::

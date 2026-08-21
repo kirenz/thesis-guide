@@ -6,7 +6,46 @@ Sollen im Rahmen der Arbeit mit Hilfe von Technologien (bspw. Python, R, Open-So
 
 Hevner et al. (2004) zufolge besteht die Zielsetzung der DSRM darin, mithilfe neuartiger Artefakte (d.h. Lösungen) unternehmensrelevante Problemstellungen zu lösen und gleichzeitig durch deren systematische Dokumentation den theoretischen Wissenszuwachs zu sichern. Hierfür wurde von den Autoren ein Kreislauf dreier Zyklen mit den Bestandteilen "Rigorosität", "Relevanz" und "Design" konzipiert (Hevner, 2007):
 
-![Die drei Zyklen der Design Science Research (Hevner, 2007)](/img/dsrm-cycles.png){width="600" fig-align="center"}
+```{=html}
+<div class="dsr-cycles" aria-label="Die drei Zyklen der Design Science Research">
+  <div class="dsr-box">
+    <span class="dsr-box-title">Umgebung</span>
+    <ul>
+      <li>Anwendungsdomäne</li>
+      <li>Menschen und Organisationen</li>
+      <li>Technische Systeme</li>
+      <li>Probleme und Chancen</li>
+    </ul>
+  </div>
+  <div class="dsr-link">
+    <span class="dsr-link-label">Relevanz-Zyklus</span>
+    <span class="dsr-link-arrow" aria-hidden="true">&#8644;</span>
+    <span class="dsr-link-sub">Anforderungen<br>Feldtests</span>
+  </div>
+  <div class="dsr-box">
+    <span class="dsr-box-title">Design Science Research</span>
+    <ul>
+      <li>Artefakte entwickeln</li>
+      <li>Artefakte evaluieren</li>
+    </ul>
+    <span class="dsr-box-loop">&#8635; Design-Zyklus: Entwickeln und Evaluieren im Wechsel</span>
+  </div>
+  <div class="dsr-link">
+    <span class="dsr-link-label">Rigor-Zyklus</span>
+    <span class="dsr-link-arrow" aria-hidden="true">&#8644;</span>
+    <span class="dsr-link-sub">Fundierung<br>Wissenszuwachs</span>
+  </div>
+  <div class="dsr-box">
+    <span class="dsr-box-title">Wissensbasis</span>
+    <ul>
+      <li>Wissenschaftliche Theorien und Methoden</li>
+      <li>Erfahrung und Expertise</li>
+      <li>Meta-Artefakte</li>
+    </ul>
+  </div>
+</div>
+<p class="fig-caption">Die drei Zyklen der Design Science Research, eigene Darstellung nach Hevner (2007)</p>
+```
 
 - Relevanz-Zyklus: Unternehmensumwelt wird mit dem Forschungsvorhaben verzahnt und auf diese Weise sowohl die Problemstellung als auch die Anforderungen an die Artefakte spezifiziert. Ein Artefakt kann dabei eine Technologie, eine Methode, ein Modell etc. darstellen.
 
@@ -14,9 +53,24 @@ Hevner et al. (2004) zufolge besteht die Zielsetzung der DSRM darin, mithilfe ne
 
 - Design-Zyklus: Erstellung der Artefakte (Modelle, Methoden, ...) unter Einbeziehung der in den beiden anderen Zyklen gewonnenen Erkenntnisse.
 
-Peffers et al. (2007) überführten die drei Zyklen in einen Prozess, der als Grundlage für die Gliederung der eigenen Arbeit genutzt werden kann. Hier ein Beispiel, in welchem ein Data Warehouse entwickelt werden soll:
+Peffers et al. (2007) überführten die drei Zyklen in einen Prozess, der als Grundlage für die Gliederung der eigenen Arbeit genutzt werden kann:
 
-![Design-Science-Research-Prozess nach Peffers et al. (2007) am Beispiel eines Data Warehouse](/img/dsrm-process.png){width="600" fig-align="center"}
+```{=html}
+<div class="process-flow" aria-label="Design-Science-Research-Prozess">
+  <div class="pf-step"><span class="pf-num">1</span><span class="pf-label">Problem identifizieren und motivieren</span></div>
+  <div class="pf-arrow" aria-hidden="true"><span>&#8594;</span></div>
+  <div class="pf-step"><span class="pf-num">2</span><span class="pf-label">Ziele der Lösung definieren</span></div>
+  <div class="pf-arrow" aria-hidden="true"><span>&#8594;</span></div>
+  <div class="pf-step"><span class="pf-num">3</span><span class="pf-label">Design und Entwicklung</span></div>
+  <div class="pf-arrow" aria-hidden="true"><span>&#8594;</span></div>
+  <div class="pf-step"><span class="pf-num">4</span><span class="pf-label">Demonstration</span></div>
+  <div class="pf-arrow" aria-hidden="true"><span>&#8594;</span></div>
+  <div class="pf-step"><span class="pf-num">5</span><span class="pf-label">Evaluation</span></div>
+  <div class="pf-arrow" aria-hidden="true"><span>&#8594;</span></div>
+  <div class="pf-step"><span class="pf-num">6</span><span class="pf-label">Kommunikation</span></div>
+</div>
+<p class="fig-caption">Der Design-Science-Research-Prozess, eigene Darstellung nach Peffers et al. (2007)</p>
+```
 
 Die Vorgehensweise folgt typischerweise diesem Schema:
 

@@ -6,13 +6,37 @@ Im Rahmen einer quantitativen empirischen Arbeit werden mit Hilfe von Daten und 
 
 Die Vorgehensweise folgt typischerweise diesem Schema:
 
-1. Beschreibung der Problemstellung und Zielsetzung
-2. Darstellung der relevanten Grundlagen
-3. Recherche und Aufarbeitung der relevanten Literatur (was ist der aktuelle Erkenntnisstand?)
-4. Formulierung von Hypothesen (üblicherweise 2 bis 5)
-5. Definition der erforderlichen Stichprobe und Daten (für die Prüfung der Hypothesen)
-6. Erhebung der Daten (bspw. mittels Umfrage, Experiment oder quantitativer Inhaltsanalyse mittels Web-Scraping oder mit APIs)
-7. Deskriptive Analysen
-8. Prüfung der Hypothesen und/oder Erstellung eines Modells
-9. Interpretation der Ergebnisse
-10. Fazit
+```{=html}
+<div class="phase-steps" aria-label="Vorgehensweise einer quantitativen empirischen Arbeit">
+  <div class="ph-phase">
+    <span class="ph-marker" aria-hidden="true"></span>
+    <span class="ph-label">Grundlagen</span>
+    <span class="ph-step">Beschreibung der Problemstellung und Zielsetzung</span>
+    <span class="ph-step">Darstellung der relevanten Grundlagen</span>
+    <span class="ph-step">Recherche und Aufarbeitung der relevanten Literatur (was ist der aktuelle Erkenntnisstand?)</span>
+  </div>
+  <div class="ph-phase">
+    <span class="ph-marker" aria-hidden="true"></span>
+    <span class="ph-label">Hypothesen</span>
+    <span class="ph-step">Formulierung von Hypothesen (üblicherweise 2 bis 5)</span>
+  </div>
+  <div class="ph-phase">
+    <span class="ph-marker" aria-hidden="true"></span>
+    <span class="ph-label">Daten</span>
+    <span class="ph-step">Definition der erforderlichen Stichprobe und Daten (für die Prüfung der Hypothesen)</span>
+    <span class="ph-step">Erhebung der Daten (bspw. mittels Umfrage, Experiment oder quantitativer Inhaltsanalyse mittels Web-Scraping oder mit APIs)</span>
+  </div>
+  <div class="ph-phase">
+    <span class="ph-marker" aria-hidden="true"></span>
+    <span class="ph-label">Analyse</span>
+    <span class="ph-step">Deskriptive Analysen</span>
+    <span class="ph-step">Prüfung der Hypothesen und/oder Erstellung eines Modells</span>
+  </div>
+  <div class="ph-phase">
+    <span class="ph-marker" aria-hidden="true"></span>
+    <span class="ph-label">Ergebnis</span>
+    <span class="ph-step">Interpretation der Ergebnisse</span>
+    <span class="ph-step">Fazit</span>
+  </div>
+</div>
+```

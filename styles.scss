@@ -432,6 +432,331 @@ main table {
 }
 
 // ---------------------------------------------------------------------------
+// Abbildungen: gemeinsame Elemente
+// ---------------------------------------------------------------------------
+
+.fig-caption {
+  font-size: 0.78rem;
+  color: $gray;
+  margin-top: 0.6rem;
+  margin-bottom: 2rem;
+}
+
+// ---------------------------------------------------------------------------
+// DSR: Drei-Zyklen-Diagramm (nach Hevner, 2007)
+// ---------------------------------------------------------------------------
+
+.dsr-cycles {
+  display: grid;
+  grid-template-columns: 1fr auto 1.1fr auto 1fr;
+  align-items: stretch;
+  margin: 2rem 0 0;
+  font-size: 0.82rem;
+}
+
+.dsr-box {
+  border: 1px solid $hairline;
+  border-radius: 12px;
+  padding: 1rem 1.1rem;
+  background-color: #ffffff;
+
+  ul {
+    margin: 0;
+    padding-left: 1.05rem;
+    color: $ink-soft;
+  }
+
+  li {
+    margin-bottom: 0.3rem;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.dsr-box-title {
+  display: block;
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: $ink;
+  margin-bottom: 0.55rem;
+}
+
+.dsr-box-loop {
+  display: block;
+  margin-top: 0.7rem;
+  padding-top: 0.6rem;
+  border-top: 1px solid $hairline;
+  font-size: 0.75rem;
+  color: $gray;
+}
+
+.dsr-link {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 0 0.8rem;
+  min-width: 96px;
+}
+
+.dsr-link-label {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: $ink;
+}
+
+.dsr-link-arrow {
+  color: $gray;
+  font-size: 1.05rem;
+  line-height: 1.4;
+}
+
+.dsr-link-sub {
+  font-size: 0.7rem;
+  color: $gray;
+  line-height: 1.35;
+}
+
+@media (max-width: 767.98px) {
+  .dsr-cycles {
+    grid-template-columns: 1fr;
+    gap: 0.4rem;
+  }
+
+  .dsr-link {
+    padding: 0.5rem 0;
+  }
+
+  .dsr-link-arrow {
+    transform: rotate(90deg);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Prozess-Kette (nach Peffers et al., 2007)
+// ---------------------------------------------------------------------------
+
+.process-flow {
+  display: flex;
+  align-items: stretch;
+  margin: 2rem 0 0;
+}
+
+.pf-step {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 1px solid $hairline;
+  border-radius: 10px;
+  padding: 0.7rem 0.6rem;
+  text-align: center;
+  background-color: #ffffff;
+}
+
+.pf-num {
+  display: block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: $gray;
+  margin-bottom: 0.2rem;
+}
+
+.pf-label {
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: $ink;
+  line-height: 1.35;
+}
+
+.pf-arrow {
+  display: flex;
+  align-items: center;
+  padding: 0 0.3rem;
+  color: $gray;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 767.98px) {
+  .process-flow {
+    flex-direction: column;
+  }
+
+  .pf-arrow {
+    justify-content: center;
+    padding: 0.25rem 0;
+  }
+
+  .pf-arrow span {
+    display: inline-block;
+    transform: rotate(90deg);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Kolloquium: proportionale Zeitbalken
+// ---------------------------------------------------------------------------
+
+.time-bar {
+  display: flex;
+  gap: 2px;
+  width: 100%;
+  height: 44px;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 1.75rem 0 0.9rem;
+}
+
+.tb-seg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: $ink;
+  min-width: 0;
+}
+
+.tb-a {
+  background-color: #e2e2e9;
+}
+
+.tb-b {
+  background-color: #cfcfd9;
+}
+
+.tb-core {
+  background-color: $ink;
+  color: #ffffff;
+}
+
+.tb-legend {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.5rem;
+  font-size: 0.85rem;
+  color: $ink-soft;
+
+  li {
+    display: flex;
+    align-items: baseline;
+    gap: 0.55rem;
+    margin-bottom: 0.35rem;
+  }
+}
+
+.tb-swatch {
+  flex: none;
+  align-self: center;
+  width: 10px;
+  height: 10px;
+  border-radius: 2px;
+
+  &.tb-a, &.tb-b, &.tb-core {
+    display: inline-block;
+  }
+}
+
+.tb-min {
+  color: $gray;
+  white-space: nowrap;
+}
+
+// ---------------------------------------------------------------------------
+// Phasen-Stepper (quantitative Arbeit)
+// ---------------------------------------------------------------------------
+
+.phase-steps {
+  margin: 1.9rem 0;
+}
+
+.ph-phase {
+  position: relative;
+  padding: 0 0 1.5rem 1.75rem;
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: 6px;
+    bottom: -6px;
+    left: 5px;
+    width: 1px;
+    background-color: #d9d9e3;
+  }
+
+  &:last-child {
+    padding-bottom: 0;
+
+    &::before {
+      display: none;
+    }
+  }
+}
+
+.ph-marker {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background-color: #ffffff;
+  border: 1.5px solid #9c9cab;
+}
+
+.ph-label {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: $gray;
+  margin-bottom: 0.3rem;
+}
+
+.ph-step {
+  display: block;
+  color: $ink-soft;
+  line-height: 1.55;
+  margin-bottom: 0.15rem;
+}
+
+// ---------------------------------------------------------------------------
+// Startseite: Mini-Prozessleiste
+// ---------------------------------------------------------------------------
+
+.mini-flow {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.45rem 0.55rem;
+  margin: 1.9rem 0 0.75rem;
+  font-size: 0.85rem;
+}
+
+.mf-item {
+  display: inline-block;
+  padding: 0.32rem 0.8rem;
+  border: 1px solid $hairline;
+  border-radius: 999px;
+  background-color: #ffffff;
+  color: $ink;
+  font-weight: 500;
+  text-decoration: none !important;
+  transition: border-color 0.15s ease;
+
+  &:hover {
+    border-color: #c9c9d4;
+    color: $ink;
+  }
+}
+
+.mf-sep {
+  color: $gray;
+}
+
+// ---------------------------------------------------------------------------
 // Footer
 // ---------------------------------------------------------------------------
 
