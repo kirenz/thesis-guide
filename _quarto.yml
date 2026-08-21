@@ -15,7 +15,6 @@ website:
     type: overlay
   sidebar:
     style: docked
-    logo: logo.png
     tools:
       - icon: github
         href: https://github.com/kirenz/thesis-guide
@@ -42,7 +41,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
+      - default
       - styles.scss
     toc: true
     toc-title: "Auf dieser Seite"
