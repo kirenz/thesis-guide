@@ -48,7 +48,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-7cf56b12f226e17e411d82b8a8616a94.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-a9ca057af1a5362c053572cdebad5f75.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -140,12 +140,6 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Themenvorschläge</span></a>
   </div>
 </li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../docs/arbeiten.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Abgeschlossene Arbeiten</span></a>
-  </div>
-</li>
       </ul>
   </li>
         <li class="sidebar-item">
@@ -233,24 +227,64 @@ ul.task-list li input[type="checkbox"] {
 
 <p>Sollen im Rahmen der Arbeit mit Hilfe von Technologien (bspw. Python, R, Open-Source-Software, Microsoft Power BI, …) Lösungen für eine bestimmte Fragestellung erstellt werden, eignet sich die Verwendung der Design Science Research Methode (DSRM), die auch als “gestaltungsorientierte Forschung” bezeichnet wird. Im Kontext der DSRM werden Lösungen auch als “Artefakte” bezeichnet.</p>
 <p>Hevner et al.&nbsp;(2004) zufolge besteht die Zielsetzung der DSRM darin, mithilfe neuartiger Artefakte (d.h. Lösungen) unternehmensrelevante Problemstellungen zu lösen und gleichzeitig durch deren systematische Dokumentation den theoretischen Wissenszuwachs zu sichern. Hierfür wurde von den Autoren ein Kreislauf dreier Zyklen mit den Bestandteilen “Rigorosität”, “Relevanz” und “Design” konzipiert (Hevner, 2007):</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="../img/dsrm-cycles.png" class="img-fluid figure-img" width="600"></p>
-<figcaption>Die drei Zyklen der Design Science Research (Hevner, 2007)</figcaption>
-</figure>
+<div class="dsr-cycles" aria-label="Die drei Zyklen der Design Science Research">
+  <div class="dsr-box">
+    <span class="dsr-box-title">Umgebung</span>
+    <ul>
+      <li>Anwendungsdomäne</li>
+      <li>Menschen und Organisationen</li>
+      <li>Technische Systeme</li>
+      <li>Probleme und Chancen</li>
+    </ul>
+  </div>
+  <div class="dsr-link">
+    <span class="dsr-link-label">Relevanz-Zyklus</span>
+    <span class="dsr-link-arrow" aria-hidden="true">⇄</span>
+    <span class="dsr-link-sub">Anforderungen<br>Feldtests</span>
+  </div>
+  <div class="dsr-box">
+    <span class="dsr-box-title">Design Science Research</span>
+    <ul>
+      <li>Artefakte entwickeln</li>
+      <li>Artefakte evaluieren</li>
+    </ul>
+    <span class="dsr-box-loop">↻ Design-Zyklus: Entwickeln und Evaluieren im Wechsel</span>
+  </div>
+  <div class="dsr-link">
+    <span class="dsr-link-label">Rigor-Zyklus</span>
+    <span class="dsr-link-arrow" aria-hidden="true">⇄</span>
+    <span class="dsr-link-sub">Fundierung<br>Wissenszuwachs</span>
+  </div>
+  <div class="dsr-box">
+    <span class="dsr-box-title">Wissensbasis</span>
+    <ul>
+      <li>Wissenschaftliche Theorien und Methoden</li>
+      <li>Erfahrung und Expertise</li>
+      <li>Meta-Artefakte</li>
+    </ul>
+  </div>
 </div>
+<p class="fig-caption">Die drei Zyklen der Design Science Research, eigene Darstellung nach Hevner (2007)</p>
 <ul>
 <li><p>Relevanz-Zyklus: Unternehmensumwelt wird mit dem Forschungsvorhaben verzahnt und auf diese Weise sowohl die Problemstellung als auch die Anforderungen an die Artefakte spezifiziert. Ein Artefakt kann dabei eine Technologie, eine Methode, ein Modell etc. darstellen.</p></li>
 <li><p>Rigor-Zyklus: Erstellung des Artefakts unter Berücksichtigung bereits bestehender Wissensbasis (Literaturrecherche, Best-Practice-Ansätze).</p></li>
 <li><p>Design-Zyklus: Erstellung der Artefakte (Modelle, Methoden, …) unter Einbeziehung der in den beiden anderen Zyklen gewonnenen Erkenntnisse.</p></li>
 </ul>
-<p>Peffers et al.&nbsp;(2007) überführten die drei Zyklen in einen Prozess, der als Grundlage für die Gliederung der eigenen Arbeit genutzt werden kann. Hier ein Beispiel, in welchem ein Data Warehouse entwickelt werden soll:</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="../img/dsrm-process.png" class="img-fluid figure-img" width="600"></p>
-<figcaption>Design-Science-Research-Prozess nach Peffers et al.&nbsp;(2007) am Beispiel eines Data Warehouse</figcaption>
-</figure>
+<p>Peffers et al.&nbsp;(2007) überführten die drei Zyklen in einen Prozess, der als Grundlage für die Gliederung der eigenen Arbeit genutzt werden kann:</p>
+<div class="process-flow" aria-label="Design-Science-Research-Prozess">
+  <div class="pf-step"><span class="pf-num">1</span><span class="pf-label">Problem identifizieren und motivieren</span></div>
+  <div class="pf-arrow" aria-hidden="true"><span>→</span></div>
+  <div class="pf-step"><span class="pf-num">2</span><span class="pf-label">Ziele der Lösung definieren</span></div>
+  <div class="pf-arrow" aria-hidden="true"><span>→</span></div>
+  <div class="pf-step"><span class="pf-num">3</span><span class="pf-label">Design und Entwicklung</span></div>
+  <div class="pf-arrow" aria-hidden="true"><span>→</span></div>
+  <div class="pf-step"><span class="pf-num">4</span><span class="pf-label">Demonstration</span></div>
+  <div class="pf-arrow" aria-hidden="true"><span>→</span></div>
+  <div class="pf-step"><span class="pf-num">5</span><span class="pf-label">Evaluation</span></div>
+  <div class="pf-arrow" aria-hidden="true"><span>→</span></div>
+  <div class="pf-step"><span class="pf-num">6</span><span class="pf-label">Kommunikation</span></div>
 </div>
+<p class="fig-caption">Der Design-Science-Research-Prozess, eigene Darstellung nach Peffers et al. (2007)</p>
 <p>Die Vorgehensweise folgt typischerweise diesem Schema:</p>
 <ol type="1">
 <li>Beschreibung der Problemstellung und Motivation</li>
