@@ -49,6 +49,10 @@ Alle organisatorischen Schritte, Fristen und Vorgaben zur Einreichung finden Sie
 - [Literaturrecherche](docs/recherche.qmd): systematische Suche nach wissenschaftlichen Quellen
 - [Kolloquium](docs/kolloquium.qmd): Hinweise zur Präsentation und zum Fachgespräch
 
+## Formatierung und Zitierweise
+
+Ich mache keine spezifischen Formatvorgaben für die Abschlussarbeit. Sie können gerne die Formatvorlagen aus dem Bachelor-Kolloquiums-Kurs verwenden. Auch bei der Zitierweise sind Sie frei in der Wahl des Zitierstils. Wichtig ist nur, dass Sie den gewählten Stil durchgängig und konsistent anwenden. Die formalen Vorgaben der Prüfungsverwaltung (z. B. ehrenwörtliche Erklärung, Kurzfassung und Abstract) bleiben davon unberührt, siehe [Abgabe der Abschlussarbeit](docs/ablauf.qmd#abgabe-der-abschlussarbeit).
+
 ::: {.callout-important title="Verbindliche Regelungen"}
 Maßgeblich sind die für Sie geltende Studien- und Prüfungsordnung sowie die aktuellen Vorgaben der Prüfungsverwaltung. Aktuelle Informationen finden Sie auf den Seiten der [Prüfungsverwaltung](https://hdm-stuttgart.de/im-studium/pruefungsverwaltung/), bei den [Informationen und Anträgen](https://www.hdm-stuttgart.de/intranet/studierende/pruefungsverwaltung/informationen_antraege) und in den [Studien- und Prüfungsordnungen](https://hdm-stuttgart.de/im-studium/studien-und-pruefungsordnungen-spo/).
 :::
