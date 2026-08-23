@@ -17,8 +17,8 @@ Starten Sie die Recherche vor der Anmeldung, nicht erst während der Bearbeitung
 
 ## Wie Sie systematisch vorgehen
 
-1. **Keywords festlegen:** Suchen Sie auf Deutsch und Englisch, mit Synonymen und verwandten Begriffen (z. B. „recommender system", „recommendation engine", „personalization"). Dokumentieren Sie Ihre Keywords, sie werden im Exposé abgefragt.
-2. **Suche verfeinern:** Kombinieren Sie Begriffe mit Anführungszeichen für exakte Phrasen („large language model") und grenzen Sie bei Bedarf den Zeitraum ein. Bei schnelllebigen KI-Themen sind Quellen der letzten zwei bis drei Jahre besonders relevant, Grundlagenliteratur darf älter sein.
+1. **Keywords festlegen:** Suchen Sie auf Deutsch und Englisch, mit Synonymen und verwandten Begriffen (z. B. „AI agents", „agentic AI", „LLM-based agents", „autonomous agents", „multi-agent systems"). Dokumentieren Sie Ihre Keywords, sie werden im Exposé abgefragt.
+2. **Suche verfeinern:** Kombinieren Sie Begriffe mit Anführungszeichen für exakte Phrasen („agentic AI") und grenzen Sie bei Bedarf den Zeitraum ein. Bei schnelllebigen KI-Themen sind Quellen der letzten zwei bis drei Jahre besonders relevant, Grundlagenliteratur darf älter sein.
 3. **Schneeballprinzip:** Arbeiten Sie von zentralen Quellen aus rückwärts (deren Literaturverzeichnis) und vorwärts („Zitiert von" in Google Scholar). So finden Sie die Kernliteratur eines Feldes schneller als über immer neue Suchanfragen.
 4. **Sättigung erkennen:** Wenn neue Suchen immer wieder auf dieselben Autorinnen, Autoren und Arbeiten führen, haben Sie den Kern des Forschungsstandes erfasst.
 
